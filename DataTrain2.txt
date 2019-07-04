@@ -1,0 +1,1287 @@
+me co ay	co ay me
+me cua co ay	me co ay
+quyen sach nay	quyen sach nay
+ba giao_vien	giao_vien 3
+nho xanh	nho xanh
+khong an	an khong
+thich an	an thich
+giao_vien thich nho	giao_vien nho thich
+giao_vien thich nhung qua nho xanh	giao_vien nho xanh thich
+giao_vien an qua coc xanh	giao_vien coc xanh an
+giao_vien an qua chuoi xanh	giao_vien chuoi xanh an
+ai thich nho	nho thich ai
+bao_nhieu giao_vien thich nho	nho thich giao_vien bao_nhieu
+giao_vien thich gi	giao_vien thich gi
+giao_vien thich bao_nhieu loai nho	giao_vien loai nho thich bao_nhieu
+giao_vien da an may qua nho	giao_vien nho an may
+ban an sang luc may gio	ban an sang gio may
+toi an sang luc 6 gio	toi sang an gio 6
+em_gai toi it khi tham_vieng ho_hang	em_gai toi ho_hang tham_vieng it
+dua_hau va chuoi co cach an khac_nhau	dua_hau chuoi an khac_nhau
+toi thuong me nhat	toi me thuong nhat
+khi co nhieu may den thi se co lu_lut	khi may den nhieu thi lu_lut co
+khi troi mua tanh thi se co cau vong	khi mua tanh cau vong co
+anh toi danh ong binh	anh toi Binh danh
+ong binh bi anh toi danh	anh toi Binh danh
+cuon sach dat tren tap nhac	tap nhac cuon sach tren
+ra lay ao_quan vao di con	ra ao_quan lay
+con da cat ao_quan vao chua	con ao_quan cat chua
+sap mua roi day	mua sap
+tap nhac dat duoi cuon sach	cuon sach tap nhac duoi
+troi sap mua den_noi roi kia	mua sap
+Lan oi , mua	Lan mua
+may co ra lay ao_quan vao khong Lan	Lan ra ao_quan lay
+Mua uot het bay_gio	mua uot het
+con phai cat ao_quan vao keo mua den_noi roi day	con ao_quan cat mua
+nuoc soi roi	nuoc soi roi
+trong phich co nuoc soi day	phich nuoc soi co
+toi rot nuoc soi vao phich	toi phich nuoc soi rot
+ong noi ga , ba noi vit	ga ong noi vit ba noi
+ong thi noi ga , ba thi noi vit	ga ong noi vit ba noi
+ong noi ga thi ba noi vit	ga ong noi thi vit ba noi
+ong ma noi ga thi ba lai noi vit	ga ong noi thi vit ba noi
+gio ngu thi cac chau im_lang	gio ngu chau im_lang
+ong ngu thi cac chau nen im_lang	ong ngu chau im_lang
+sach hay thi ai cung thich doc	sach hay ai doc thich
+sach hay nguoi_ta moi thich doc	sach hay nguoi_ta doc thich
+sach ma hay thi ai cung thich doc	sach hay thi ai doc thich
+sach co hay thi nguoi_ta moi thich doc	sach hay co nguoi_ta doc thich
+me di Ha_Noi roi	me Ha_Noi roi
+nam nay mua it qua	mua nam nay it
+buc nay mau khong dep	buc nay mau dep khong
+troi ma mua thi o lai	mua thi o lai
+me di Ha_Noi chua	me Ha_Noi di chua
+Nam nay mua nhieu khong	mua nam nay nhieu
+buc nay the_nao	buc nay the_nao
+troi ma mua thi_sao	mua thi_sao
+toi dau qua	dau qua
+anh dau lam a	anh dau
+o day co muoi	o day muoi co
+bay_gio la ba gio roi	bay_gio gio 3
+cai nay bao_nhieu tien	cai nay tien bao_nhieu
+cuon sach ay doc duoc day	cuon sach ay doc duoc
+con meo nay khong dep	con meo nay dep khong
+anh thi can gi den toi	toi anh can gi
+cu Tu toc da bac het roi	Tu toc bac het roi
+vuon nha toi la rung nhieu	la vuon nha toi rung nhieu
+co mot nguoi thi lam khong xue	nguoi mot lam xue khong
+bay_gio chua muon dau	bay_gio muon chua
+tham thi tham	tham tham thi
+bao_gio troi noi can_qua	troi noi can_qua
+con vua that_the lai di quet chua	vua con that_the chua quet
+hon dat ma biet noi_nang thi thay_dia_ly ham_rang khong con	dat noi_nang biet thay_dia_ly ham_rang con khong
+con Cun nguoi_ta bat mat roi	cun nguoi_ta bat roi
+cay gao dau lang bi set danh_doi roi	dau lang cay gao set danh_do
+con con Cun dau roi	Cun dau
+con Cun thi nguoi_ta bat mat roi	Cun nguoi_ta bat roi
+ai lam duoc_viec nay	viec nay lam duoc ai
+toi lam duoc	toi duoc lam
+no chiu roi , con anh thi_co lam duoc khong a	no chiu roi anh lam duoc
+toi thi lam duoc	toi lam duoc
+con toi dua thi di lam , dua thi di hoc	con toi dua lam dua hoc
+mon nay an thi ngon nhung lam thi mat_cong	mon nay ngon nhung lam mat_cong
+viec nay khong chong thi chay cung se dua den ket_qua xau	viec nay khong chong thi chay ket_qua xau
+anh_em o day khong_it_thi_nhieu deu co dong_gop	anh_em o day khong_it_thi_nhieu dong_gop co
+hinh_nhu anh hai_long lam thi_phai	hinh_nhu anh hai_long
+anh Nam lam_viec thi cham_chi	Nam lam_viec cham_chi
+anh Nam lam_viec cham_chi	Nam lam_viec cham_chi
+anh moi thi toi den	anh moi toi den
+anh moi toi den	anh moi toi den
+thay dich thi khai_trien doi_hinh	dich thay thi doi_hinh khai_trien
+thay dich khai_trien doi_hinh	dich thay doi_hinh khai_trien
+khi tau chay thi ve	tau chay thi ve
+khi tau chay ve	khi tau ve
+khong lam , khong an	lam khong an khong
+khong lam thi khong an	lam khong thi an khong
+can gi , noi ngay di	can noi
+can gi thi noi ngay di	can thi noi
+Khong lam thi khong an day nhe	lam khong thi an khong
+can gi thi noi ngay di , thua bam mai	can gi thi noi bam mai
+can gi ? noi ngay di	can gi ? noi
+cho treo , meo day	cho treo meo day
+mem nan , ran buong	mem nan ran vuong
+ca ca , lon lon	ca ca lon lon
+tren thuan duoi hoa	tren thuan duoi hoa
+trong thi am , ngoai thi em	trong am ngoai em
+boi thi_ra ma , quet nha thi_ra rac	boi thi_ra nha quet rac thi_ra
+trong co am thi ngoai moi co em	trong am thi ngoai em
+boi ma ra ma thi quet nha ra rac	boi ma ra thi nha quet rac
+troi thi mua lam_tham	mua lam_tham
+lam_sao cho khoi uot	uot lam_sao
+moi nguoi di truoc ca roi , con toi thi toi se di_sau	moi nguoi di roi , toi di_sau se
+ai chu , anh Ba thi khoi phai gioi_thieu	gioi_thieu Ba phai khoi
+no thi no chang tin duoc dau	no tin chang
+no thi chang tin duoc dau	no tin chang
+thi_gio la vang_bac	thi_gio vang_bac
+Ha_Noi thu_do nuoc ta	Ha_Noi thu_do nuoc ta
+nguoi la hoa dat	nguoi hoa dat
+no che cam la no om day	no cam che no om day
+duoc tang giai 1 mot cau_be muoi_hai tuoi	giai 1 cau_be muoi_hai tuoi
+tren cung la tuong phat	tren cung tuong phat
+em toi thich nhat keo chanh	em toi keo chanh thich
+ho gap nhau lan cuoi la trong chien_dich Tay_Bac	ho lan cuoi gap trong chien_dich Tay_Bac
+ki_niem thanh_lap don_vi ta la ngay 21 thang muoi_hai	thanh_lap don_vi ki_niem ngay 21 thang muoi_hai
+anh_ay den day de gap chi	anh_ay den day chi gap
+tai_nan xay_ra la vi nguoi lai_xe say ruou	xay_ra tai_nan vi nguoi lai_xe ruou say
+noi hon voi me la khong duoc	hon me duoc khong
+anh chi phai doi ba_thang nua_la cung	anh doi ba_thang
+anh thich nhat keo chanh	anh keo chanh thich nhat
+em anh thich nhat cai gi	em anh thich nhat cai gi
+em anh thich nhat keo gi	em anh thich nhat keo gi
+em ai thich nhat keo chanh	keo chanh thich nhat em ai
+anh te lam	anh te lam
+anh la te lam	anh te lam
+toi chi thich doc Nam_Cao	toi Nam_Cao doc thich
+me no danh la danh cho no so thoi	me no danh la danh cho no so
+no yeu la yeu cau tui_tien cua may	no yeu la yeu tui_tien cua may
+co ta dep la dep vi lua	co ta dep dep vi lua
+ho gap nhau lan cuoi la o Tay_Bac co	lan cuoi ho gap la o Tay_Bac
+ho gap nhau lan cuoi la o Tay_Bac chu	lan cuoi ho gap la o Tay_Bac
+ho gap nhau lan cuoi la o Tay_Bac ma , noi roi , kho lam , hoi mai , cai mai	lan cuoi ho gap la o Tay_Bac noi roi kho lam hoi mai cai mai
+la toi phong_doan the	toi phong_doan
+con chau la	con chau la
+the_thi tot	the_thi tot
+the_la tot	the_la tot
+neu the_thi tot	neu the_thi tot
+neu the_la tot	neu the_la tot
+co lenh thi di	lenh co di
+co lenh la di	lenh co di
+nguoi ma den the thi_thoi	nguoi den thi_thoi
+bay_gio ma di bo thi khong kip	bay_gio di bo khong kip
+cho nay ma xay_dung mot benh_vien thi tot	cho nay benh_vien xay_dung tot
+ca nay ma hap voi nam thi ngon tuyet	ca nay nam hap ngon
+la lop truong ma khong guong_mau thi_sao noi duoc cac ban	lop truong guong_mau khong noi cac ban duoc
+di thi ma chu_quan thi rat de truot	thi chu_quan truot de
+nguoi kho_tinh	
+nguoi ma kho_tinh thi chang ai ua	nguoi kho_tinh ua chang
+ca_qua nau voi khe	ca_qua khe nau
+ca_qua ma nau voi khe thi rat ngon	ca_qua khe nau ngon
+non thi nho nuoc , nuoc ma quen non	non nuoc nho nuoc non quen
+bai_toan nay ma em khong lam duoc sao	bai_toan nay em lam duoc khong
+qua trua ma khach van chua den	trua khach den chua
+giua lang giua cho ma han dam chui ca bo_con nha ba Kien	giua lang giua cho han bo_con Ba_Kien chui
+han ma dam the a	han dam
+sang nay , no den ma toi lai khong co nha	sang nay no den toi nha co khong
+troi lanh ma an_mac phong_phanh thi bi cam day , mac ao_am vao	troi lanh an_mac phong_phanh cam ao_am mac
+troi lanh ma an_mac phong_phanh the_nay thi chua bi cam la may day	troi lanh an_mac phong_phanh cam chua may
+no lam duoc the_nay da la kha lam roi	no lam duoc the_nay kha roi
+di_sau chot chac la co_quan ta	di_sau co_quan ta chac chot
+cai do chi la lieu thuoc an_than thoi	thuoc an_than thoi
+ai lam nay chiu	ai lam nay chiu
+muon gi duoc nay	muon gi duoc nay
+cha nao con nay	cha nao con nay
+bao sao nghe vay	bao sao nghe vay
+dan the_nao thi lam the_ay	dan the_nao lam the_ay
+bao_gio do trang bay_gio cuoi nhau	bao_gio do trang bay_gio cuoi
+ai lam thi toi khong biet	ai lam toi biet khong
+muon gi thi da duoc roi	muon gi thi duoc roi
+bao_gio do trang thi cuoi	bao_gio do trang thi cuoi
+ai lam cung duoc	lam ai cung duoc
+no lam_gi cung gioi	no lam_gi cung gioi
+cha nao cung mong con ngoan	cha nao mong con ngoan
+anh noi sao cung duoc	anh noi sao duoc
+dan the_nao no cung quen	dan the_nao no quen
+can bao_nhieu cung co	can bao_nhieu cung co
+bao_gio do trang cung duoc vinh_quy	bao_gio do trang vinh_quy duoc
+con co khoc thi me moi cho bu	con khoc me bu cho
+toi chua kip chuan_bi thi no da den	toi chuan_bi chua no den
+moi nut mat ra ma da doi lay vo	mat nut moi ma vo lay doi
+cang au duyen moi , cang dao tinh xua	cang au duyen moi cang dao tinh xua
+moi nguoi mot ve	moi nguoi mot ve
+chang thom cung the hoa nhai	thom chang cung the hoa nhai
+noi doan , Ngu_Vien lien dam co tu_sat	doan noi Ngu_Vien dam co tu_sat
+phen nay , ong Tu at_la ha_he	phen nay Tu ha_he
+do la mot bai bao cuc_ki bo_ich	do bai bao bo_ich
+neu co giay_moi thi anh hay di	neu giay_moi co anh di hay
+anh Nam ay a , toi vua gap anh_ay o truong xong	Nam toi gap o truong
+cong_viec u , thi toi van quan_tam day chu	cong_viec thi toi van quan_tam
+qua kinh_nghiem cho ta thay , tam quan_trong cua viec quan_li vat_tu	kinh_nghiem thay quan_li vat_tu tam quan_trong
+trong tinh_hinh do doi_hoi ta phai co_gang	trong tinh_hinh do doi_hoi ta co_gang phai
+dau_don thay phan dan_ba	dau_don thay phan dan_ba
+con dau nhung dem vang ben bo suoi	dem vang ben suoi con dau
+chang_qua la cai no_doi chi day	chang_qua no_doi chi day
+la thay suc_manh cua tam_hon	suc_manh tam_hon la thay
+vui sao buoi hanh_quan nang lua	buoi hanh_quan nang lua vui
+bong gap nguoi , lung ngua deo cao	nguoi gap bong ngua lung deo cao
+no gi ma no	no gi ma no
+dep gi con ay ma dep	con ay dep gi ma dep
+no co lam dau ma lam	no lam co dau ma lam
+bao la no thi toi co no gi dau	bao no toi co no gi dau
+bao la dep thi con ay dep gi	bao dep con ay dep gi
+noi la lam ma no co lam dau	noi lam no co lam dau
+cai quyen sach mua hom_qua ay ma , anh doc xong chua	hom_qua sach mua anh doc xong chua
+Chi_Pheo nhan di ngay	Chi_Pheo di nhan ngay
+han tuc_khac den nha doi Tao	han nha doi Tao den
+anh nay lai say_khuot roi	anh nay say_khuot roi
+bay_gio la vao mua mua	bay_gio mua mua
+o day chung_ta lam_viec 5 ngay 1 tuan	o day chung_ta lam_viec tuan 1 ngay 5
+lam_an nhu_the thfi khong la may roi	lam_an nhu_the thi may khong
+ai lam_viec nay	lam_viec nay ai
+dua nao danh vo binh hoa	danh vo binh hoa dua nao
+bao_gio anh ve	anh ve bao_gio
+con the_nao nua moi bang_long	con the_nao bang_long
+nguoi chien_si ay , ai da gap anh khong_the_nao quen	chien_si ay gap ai anh quen khong_the_nao
+nhung nguoi da duoc gap Ho_Chu_Tich	Ho_Chu_Tich nhung nguoi gap duoc
+nhung_ai da gap anh	anh nhung_ai da gap
+nhung gi ta mong_muon	nhung gi ta mong_muon
+nuoc_non minh dau cung dep nhu tranh	nuoc_non dep nhu tranh
+ho la mot loai thu an thit	ho thu an thit
+ngheo khong phai la toi_loi	ngheo toi_loi khong phai
+yeu la chet o trong long mot_it	yeu trong long chet mot_it
+chay lam cho khi_huyet luu_thong	chay lam cho khi_huyet luu_thong
+mot nguoi thi cha men	mot nguoi thi men cha
+mot nguoi nhu anh thi ai cha men	mot nguoi nhu anh thi ai men cha
+lat buoc chat	lat buoc chat
+loai thu an thit la ho	thu an thit la ho
+loai thu an thit dien_hinh la ho	thu dien_hinh thit an la ho
+loai thu an thit co lon long mau vang co van den la ho	thu lon long mau vang van den thit an la ho
+loai thu an thit kho san la ho	thu thit an san kho la ho
+no thich la keo chanh	keo chanh no thich
+hai nguoi gap nhau o Yen_Bai	o Yen_Bai hai nguoi gap
+hai nguoi gap nhau lan cuoi_cung la o Yen_Bai	o Yen_Bai hai nguoi lan cuoi_cung gap
+anh_ay can thi toi lam xong ngay	anh_ay can thi toi lam xong ngay
+neu anh thay can thi toi lam xong ngay	neu anh can thi toi lam xong ngay
+khi me len tau , cac con danh dien cho ba	khi me tau len con ba danh dien
+thuo troi_dat noi con gio_bui	thuo troi_dat con gio_bui noi
+khach ma_hong nhieu noi truan_chuyen	khach ma_hong noi truan_chuyen
+luc ba tro_da , dong_bao noi len am_am	luc ba tro_da dong_bao am_am
+nguoi nach thuoc , ke tay dao	nguoi thuoc nach ke dao tay
+khi chen ruou , khi cuoc co	khi chen ruou khi co
+khi xem hoa no , khi cho trang len	khi hoa no xem khi trang len cho
+dua bao co , dua bao khong , biet nghe dua nao bay_gio	dua bao co dua bao khong nghe dua nao
+ai chu toi thi toi khong biet	ai chu toi khong biet
+o dau chu o day thi khoi lo	o dau chu o day lo khoi
+gi chu com ngay hai bua thi van co	gi chu com hai bua co
+ai chu vo thi_phai ninh chu	ai chu ninh vo chu
+the_nao chu con_trau di truoc cai cay di_sau thi chua phai la chu_nghia	the_nao chu con_trau truoc di cay di_sau thi chu_nghia chua phai
+suot hai ngay di bo	hai ngay di bo
+vao mot buoi chieu he , Anh ra song	vao mot chieu he Anh song ra
+tuy moi hoc lop 6 , Thuy da lam duoc Toan lop 7	tuy hoc lop 6 moi Thuy Toan lop 7 lam duoc
+de nang cao nang_suat , ta phai cai_tien thao_tac	nang cao nang_suat de ta cai_tien thao_tac phai
+tay om chong sach , Nam buoc vao phong	tay sach om Nam phong buoc vao
+vi troi mua , chau khong di nha_tre	vi mua chau nha_tre di khong
+hom_qua va hom_kia thi ho di bo	hom_qua va hom_kia ho bo di
+chieu_hom qua thi Anh ra song	chieu_hom qua Anh song ra
+dang hoc lop 6 ma Thuy da lam duoc Toan lop 7	lop 6 hoc dang ma Thuy Toan lop 7 lam duoc
+muon nang cao nang_suat thi ta phai cai_tien thao_tac	nang cao nang_suat muon ta cai_tien thao_tac phai
+Tay om chong sach the kia thi buoc lam_sao duoc	sach tay om the kia buoc lam_sao
+troi mua thi chau khong di nha_tre duoc	mua nha_tre chau khong di
+Thuy da lam duoc Toan lop 7 khi dang con hoc lop 6	khi hoc lop 6 Thuy Toan lop 7 lam duoc
+ta phai cai_tien thao_tac de nang cao nang_suat	ta cai_tien thao_tac phai de nang cao nang_suat
+chau khong di nha_tre duoc vi troi mua	nha_tre chau di khong duoc vi mua
+buoc lam_sao duoc khi tay om chong sach the kia	buoc lam_sao khi tay om sach the kia
+buoc lam_sao duoc voi chong sach om tren tay the kia	buoc lam_sao voi sach tay om the kia
+ho di bo hom_qua va hom_kia	hom_qua hom_kia ho di bo
+Anh ra song chieu_hom qua	chieu_hom qua Anh ra song
+bao_gio thi anh ve	anh ve bao_gio
+anh ve bao_gio	anh ve bao_gio
+o day toi cung lam_viec	toi o day lam_viec
+toi cung lam_viec o day	toi lam_viec o day
+vao ngay chu_nhat toi chi nghe nhac	chu_nhat toi nhac nghe
+toi chi nghe nhac vao ngay chu_nhat	chu_nhat toi nhac nghe
+gieng nay nuoc trong	gieng nay nuoc trong
+anh_ay toi da ra_suc chieu_chuong	anh_ay toi ra_suc chieu_chuong
+nuoc gieng nay trong	nuoc gieng nay trong
+toi da ra_suc chieu_chuong anh_ay	anh_ay toi ra_suc chieu_chuong
+gieng nuoc nay trong ma_lai gan nha	gieng nay nuoc trong gan nha
+nuoc gieng nay trong ma_lai gan nha	nuoc gieng nay trong gan nha
+anh_ay toi da ra_suc chieu_chuong ma van keu la minh bi bac_dai	anh_ay toi ra_suc chieu_chuong ma minh bi bac_dai keu
+toi da ra_suc chieu_chuong anh_ay ma van keu la minh bi bac_dai	toi anh_ay ra_suc chieu_chuong ma minh bi bac_dai keu
+me da ve	me da ve
+cai binh vo mat roi	binh vo roi
+anh_ay rat buon	anh_ay buon rat
+gay ra chuyen nay khong phai la toi	gay chuyen nay toi khong phai
+ngoi ben phai la anh toi	ben phai toi ngoi la anh
+benh_nhan X da mo xong	benh_nhan X mo xong
+thuoc nay uong ngay nam giot	thuoc ngay uong giot nam
+no an nhieu nhat_la keo chanh	no keo chanh an nhieu
+khi vui thi vo_tay vao	khi vui vo_tay
+nam phut nua bat_dau nhe	nam phut bat_dau
+may bay cat canh la vao luc 6 gio	may bay cat canh gio 6
+giuong nay chau be nam	chau be giuong nay nam
+o day thi khong tien	o day tien khong
+chia_khoa nay khong mo duoc cua	chia_khoa nay cua mo khong duoc
+noi dong nau oc	noi dong oc nau
+toi mo cai o_khoa nay bang mui dao_nhip	toi o_khoa nay mo bang mui dao_nhip
+nau ech thi_phai noi dat	ech noi dat nau
+may vang thi gio , may do thi mua	may vang gio may do mua
+ong ay den thi toi di	ong ay den toi di
+du ai noi nga noi nghieng thi ta van vung nhu kieng ba chan	du noi nga noi nghieng ta nhu kieng ba chan
+Kasparov la vo_dich co_vua the_gioi gioi nam 1988	Kasparov vo_dich co_vua the_gioi gioi nam 1988
+nha_nuoc la toi	nha_nuoc toi la
+phe_binh khong phai la mat_sat	phe_binh khong phai mat_sat
+mat_sat khong phai la phe_binh	mat_sat khong phai phe_binh
+vang gio , do mua	vang gio do mua
+mua trang , nang den	mua trang nang den
+cua dau , con xot	cua dau con xot
+Nam trung_cu	Nam trung_cu
+Nam da trung_cu	Nam trung_cu da
+Nam trung_cu roi	Nam trung_cu roi
+Nam co_the trung_cu day	Nam trung_cu co_the
+co_the Nam se trung_cu	co_the Nam trung_cu se
+Nam co_the se trung_cu	co_the Nam trung_cu se
+Nam chac_chan se trung_cu	Nam trung_cu chac_chan
+chac_chan la Nam se trung_cu	chac_chan Nam trung_cu se
+Nam trung_cu la cai chac	Nam trung_cu chac
+Nam thi toi tin chac la se trung_cu	toi tin Nam trung_cu chac
+Nam se trung_cu mot_cach chac_chan	Nam trung_cu chac_chan
+theo y toi thi nen lam ngay	theo toi nen lam ngay
+le_ra thi anh phai den som hon	le_ra anh den som hon phai
+noi_chung thi ket_qua cung kha_quan	noi_chung ket_qua kha_quan
+qua_tinh la toi co y gi che anh dau	qua_tinh toi anh y che co
+hiem mot noi la ong_ba ay khong co con_trai	hiem ong_ba ay con_trai khong
+troi hinh_nhu muon tro ret	troi ret muon
+dung la anh nay say roi	dung anh nay say
+toi nay it_nhat la ba nam tu	toi nay tu ba nam it_nhat
+chang tha ong ay cu noi_toet ra	chang tha ong ay noi_toet ra
+doi ta e thua mat	doi ta thua mat
+doan nay toi thay khong on	toi doan nay thay khong on
+thiet_tuong chuyen nay anh thua ro	thiet_tuong chuyen nay anh ro
+may_ma ta da du_lieu truoc ca roi	may_ma ta du_lieu truoc roi
+hinh_nhu anh sot ruot	hinh_nhu anh sot ruot
+nho say chan mot cai thi khon	nho say chan thi khon
+cai nay gia chi nam ngan thi nhieu	cai nay gia chi nam ngan
+Nam se trung_cu moi chet chu	Nam trung_cu moi chet chu
+thoi_thi co phai ban ca con lan cho cung danh	thoi_thi con cho ban phai danh
+no con duoc thang chuc nua khong_biet_chung	khong_biet_chung no thang chuc nua
+no suyt nga	no nga suyt
+cu noi the_thi no khac hieu	cu noi the_thi no khac hieu
+moi nguoi phai co_mat luc 6 gio	moi nguoi gio 6 co_mat
+chi con hai bat com trong noi	hai bat com noi chi con
+co nhung muoi nguoi vang_mat	co nguoi muoi vang_mat
+ga kia lam hong cai may mat	ga kia may lam hong
+no co_y lam hong cai may that	no may lam hong co_y
+Nam se trung_cu do la mot dieu chac_chan	Nam trung_cu la dieu chac_chan
+the_ma qua thi , la thay , van khong roi xuong	the_ma qua thi roi xuong khong la
+cua_dang_toi , no co biet gi dau	cua_dang_toi no biet gi
+luat nay , nhu ai_nay deu biet , co mot pham_vi hieu luat rat hep	ai_nay deu biet luat nay pham_vi hieu luat hep
+no lam rach cai man mat	no cai man lam rach
+no lam rach mat cai man	no cai man lam rach
+no lam rach cai man mat roi	no cai man lam rach
+vi khong doc ky de , no da lam hong mat bai tap_lam_van	de doc ky khong no tap_lam_van hong
+to se duoc diem 10 ve mon toan mot_cach chac_chan	to toan diem 10 duoc
+toi chi tap_trung tu_tuong duoc trong vong mot gio dong_ho	toi tu_tuong tap_trung duoc mot gio
+ong ay lam_viec lien_tuc suot tu sang den chieu	ong ay lam_viec sang chieu lien_tuc
+no lam hong bai tap_lam_van vi khong doc ky de_bai	no tap_lam_van lam hong vi de_bai doc khong ky
+suot tu sang den chieu , ong ay lam_viec lien_tuc	sang chieu ong ay lam_viec lien_tuc
+chac_chan la to se duoc diem 10 ve mon toan	to toan diem 10 duoc chac_chan
+no hong ki thi nay vi mon toan	no toan thi hong
+no hong ki thi nay vi dot	no thi hong vi dot
+no hong ki thi nay vi lac_de	no thi hong vi lac_de
+no hong ki thi nay vi de thi kho qua	no thi hong vi de kho
+em oi buon lam_chi	em buon lam_chi
+van van_de nay thua cac ban chung_ta co rat nhieu y_kien	cac ban chung_ta van_de nay y_kien nhieu co
+cau Vang di_doi roi ong giao a	ong giao cau Vang di_doi roi
+ma chang quen chi cao vi su_nghiep	ma chang su_nghiep chi cao vi
+gioi_oi la gioi , co chong_con nha nao nhu_the khong	gioi_oi gioi co chong_con nha nao nhu_the
+sau truc , o_kia	truc sau o_kia
+Xiem_ao ai	Xiem_ao ai
+troi_dat a , co doi_nao nhu_vay , cai tho_ta gi cung dat	troi_dat co doi_nao nhu_vay tho_ta gi dat cung
+vang , moi ba cu ngoi choi thu_tha xoi nuoc , xoi trau da	moi ba ngoi choi nuoc xoi trau xoi
+o_hay , con lam_gi	o_hay con lam_gi
+vang , toi biet	vang toi biet
+Tinh ong Cuu nha toi nhan lao tam bat lao	tinh ong Cuu toi nhan lao tam bat lao
+o_hay , me_con no di dau ca roi	o_hay me_con dau
+co be nha ben ai_ngo cung la du_kich	co be nha ben ai_ngo la du_kich
+ong Nam ay ma , ong ay tot lam	ong Nam tot
+dieu ta khong muon thi khong nen lam cho nguoi khac	ta dieu muon khong lam cho nguoi khac nen khong
+bang_long hay khong thi cung noi cho ngta biet	bang_long hay khong thi noi nguoi_ta biet
+de nguoi de ta	de nguoi de ta
+	
+lam thay ray ma	thay lam ma ray
+	
+	
+xau chang kho ai	chang xau kho ai
+o dau quen day	o dau quen day
+mai me ve	mai me ve
+o day boi rat thich	o day boi thich
+bai nay giai rat de	bai nay giai de
+mat thi o day mat hon	mat thi o day mat hon
+com da don xong	com don xong
+nguoi ve buc nay la ong Duc	nguoi buc nay ve la Duc
+lay chong hay_chu la tien	chong hay_chu lay la tien
+nam_ngoai lanh lam	nam_ngoai lanh
+o day vui qua nhi	o day vui qua
+co yeu thi noi rang yeu	yeu thi noi yeu
+ga trong , ga mai deu la ga song ca	ga trong ga mai deu ga song
+ve hay o deu khong tien	ve hay o khong tien
+ho song va chien_dau	ho song va chien_dau
+dan_dau doi_hinh la co va bieu_ngu	doi_hinh dan_dau co bieu_ngu
+muon kip thi mai di may_bay	kip muon thi mai may_bay
+ong_cu dao nay yeu lam	dao nay ong_cu yeu lam
+o doi quy nhat chu_nhan	o doi chu_nhan quy
+may_va hoc cung khong de	may_va hoc de khong
+nau_nuong thi o nha co minh em	nau_nuong nha minh em co
+the_gian duoc vo hong chong	the_gian vo duoc chong hong
+long que di mot buoc_duong mot dau	long que di mot buoc_duong mot dau
+mai di thi muon	mai di muon thi
+o day ma lam ho boi thi tuyet	o day ho boi lam tuyet
+bai nay ma lac_de thi hong roi	bai nay lac_de thi hong
+mat ma hon day thi chi co Sa_Pa	mat hon day co Sa_Pa
+mai muon kip thi di may_bay	mai kip muon may_bay
+ong_cu yeu di thi dang lo	ong_cu yeu lo
+doi con quy chu_nhan thi chua den_noi	doi chu_nhan quy thi chua den_noi
+may_va co kho thi moi_phai hoc	may_va kho thi moi_phai hoc
+minh em nay nuong thi khong kip	em ay nuong khong kip
+chua noi da cuoi la nguoi vo_duyen	noi chua cuoi da nguoi vo_duyen
+Cao_Bang gao_trang_nuoc_trong	Cao_Bang gao_trang_nuoc_trong
+ngon den khi to khi mo	den khi to khi mo
+mon nay an thi ngon lam thi ton cong	mon nay ngon an ton cong lam
+o day truoc la sau quen	o day la truoc quen sau
+luc nay gao_chau_cui_que	luc nay gao_chau_cui_que
+lam cho thi than_tan_ma_dai	
+ai ve ai o mac ai	ve ai o ai mac ai
+tren thuan duoi hoa la hay nhat	tren thuan duoi hoa
+trong danh ra ngoai danh vao thi nhat_dinh thang	danh trong ra ngoai danh vao thi thang nhat_dinh
+an_co_nhai_noi_co_nghi thi moi la nguoi khon	an_co_nhai_noi_co_nghi la nguoi khon
+khon song mong chet la mot thuc_te xa_hoi	khon song mong chet la xa_hoi thuc_te
+con_trau di truoc cai cay theo sau thi con lac_hau	con_trau di truoc cay sau thi lac_hau con
+	
+	
+loi nay tai ai thi toi khong biet	loi nay tai ai toi khong biet
+quan biet thi no chet	quan biet no chet
+mai da di thi toi chuan_bi khong kip	mai di toi chuan_bi khong kip
+sen xa ho sen kho ho can	ho sen xa ho can
+lieu xa dao lieu nga dao nghieng	lieu dao xa lieu nga dao nghieng
+som mua trua nang la anh yeu minh	mua som nang trua la anh minh yeu
+song_can_da_mon anh van thuy_chung	song_can_da_mon anh thuy_chung van
+ai di ai ve no cung chang de_y	di ai ve ai no chang de_y
+sang vac toi vac thi ai ma cha chan	vac sang vac toi chan
+dau qua	
+dang ban lut dau lut co	
+di dau_day	di dau_day
+khoe chu	
+co dau khong	dau co
+cam hut thuoc_la	thuoc_la hut cam
+khong chay xe trong san	trong san chay xe khong
+coi_chung mat xe	xe mat coi_chung
+phai ton_trong va giup_do nguoi gia_ca va phu_nu co_thai	ton_trong giup_do nguoi gia_ca phu_nu co_thai phai
+can an de ma song chu khong phai song de ma an	an song can chu song an khong phai
+ngoi xuong	
+moi ngoi xuong	moi ngoi
+quy_vi ngoi xuong di	quy_vi ngoi
+toi moi quy_vi an_toa	quy_vi an_toa moi
+cam_on cac ban	cam_on cac ban
+cam_on cac bac	cam_on cac bac
+khuya roi	khuya roi
+nong qua , sap mua roi	nong qua mua sap
+nhu tranh_thuy_mac ay , dep qua	nhu tranh_thuy_mac dep
+nhieu buom qua , co con dep qua kia	buom nhieu co con dep qua
+te den the kia a	te the
+o day luc nay , troi nong qua	o day luc nay nong qua
+o day luc nay , troi sap mua	o day luc nay mua sap
+so tac_gia nay nhan_dinh khac han	tac_gia nay nhan_dinh khac han
+da bao ma	bao da
+	
+mot cai tat rat keu	mot tat rat keu
+tieng dam , tieng da nhau binh_bich	dam da tieng binh_bich
+ho da bao ma	ho bao da
+phen nay thi_phai biet	phen nay thi_phai biet
+luc ay co_the nghe thay mot cai tac rat keu	luc ay tat nghe
+luc ay co_the nghe thay tieng dam_da nhau binh_bich	luc ay co_the dam_da nghe binh_bich
+dam_da nhu_the cu goi_la tan xuong	dam_da nhu_the tan xuong
+dai_bac ung_oang suot dem	dai_bac ung_oang suot dem
+tieng ung_oang cua dai_bac nghe thua dan	tieng dai_bac ung_oang nghe thua dan
+co_tieng dai_bac no ung_oang tu xa	xa co_tieng dai_bac ung_oang
+dieu ay toi biet roi	dieu ay toi biet roi
+dieu anh vua noi ay toi biet roi	dieu anh vua noi toi biet
+toi da xem tran ay	toi tran ay da xem
+toi da xem doi ta dau voi doi ban	toi xem doi ta doi ban dau
+vi loi_ich chung ong_ta da xin tu_chuc	vi loi_ich chung ong_ta tu_chuc xin
+Cu Tu da bac het ca toc roi	Cu Tu toc bac het
+Cu Tu toc bac het ca roi	Cu Tu toc bac het
+oi , canh ly_biet ma_sao buon vay	ly_biet ma_sao buon
+anh Duc nay , anh lay toi lam vo nhe	anh Duc anh toi lay lam vo
+ong Chuong , pho cua cha toi , nay da len tuong	ong Chuong pho cha toi nay len tuong
+anh co biet ong ay khong , ong Van ay ma	anh ong ay biet Van
+khong ai noi_gi , moi nguoi lang dan ra	ai noi_gi khong moi nguoi lang dan
+khong ai noi_gi , roi moi nguoi lang dan ra	ai noi_gi khong moi nguoi lang dan
+khong ai noi_gi nhung moi nguoi lang dan ra	ai noi_gi khong nhung moi nguoi lang dan
+khong ai noi_gi nen moi nguoi lang dan ra	ai noi_gi khong nen moi nguoi lang dan
+tuy khong ai noi_gi nhung moi nguoi lang dan ra	tuy ai noi_gi khong nhung moi nguoi lang dan
+vi khong ai noi_gi nen moi nguoi lang dan	vi ai noi_gi khong nen moi nguoi lang dan
+da bay_lau_nay bac toi nha	da bay_lau_nay bac toi nha
+tre thoi di vang , cho thoi xa	tre thoi di vang cho thoi xa
+ao sau nuoc ca , khon chai ca	ao nuoc sau khon chai ca
+vuon rong rao thua , kho duoi ga	vuon rong rao thua ga kho duoi
+cai chua ra cay , ca moi nu	cai cay chua ra ca nu moi
+bau vua rung ron , muop ra hoa	bau ron rung muop hoa ra
+dau_tro tiep khach trau_khong co	dau_tro khach tiep trau_khong co
+bac den choi day , ta voi ta	bac den choi day ta voi ta
+toi cung khong biet	toi khong biet cung
+sao anh lai noi the	anh noi sao
+chuyen nay nghiem_trong day	chuyen nay nghiem_trong
+nhung ai biet ma so	biet ai ma so
+sau day la vai diem can noi ro them	sau day vai diem noi ro can
+toi khong dinh vao viec nay	toi dinh khong vao
+anh cung dung nghi_ngo gi anh_ay	anh nghi_ngo dung anh_ay
+dung ra san , ngoai ay ret lam	san ra dung ngoai ay ret
+ba ay danh con cho du qua , lam nhu_the khong co tac_dung giao_duc	ba ay cho danh qua nhu_the tac_dung khong co
+toi khong muon di , va_lai da muon roi	toi di khong muon va_lai muon roi
+	
+cam_on bac	
+chau cam_on bac	
+chau cam_on bac a	
+cuon Chi_Pheo o duoi chong tap_chi	cuon Chi_Pheo o duoi tap_chi
+duoi chong tap_chi co cuon Chi_Pheo	duoi tap_chi co cuon Chi_Pheo
+chong tap_chi o tren cuon Chi_Pheo	tap_chi tren cuon Chi_Pheo
+cai xe mau do ay moi la xe cua toi	xe mau do la xe cua toi
+xe cua toi la cai mau do ay	xe cua toi mau do
+an nhieu qua thi moi sinh_benh chu	an nhieu sinh_benh
+sinh_benh dau phai tai an , ma tai an nhieu qua day chu	sinh_benh dau phai tai an nhieu
+ai chu no thi khong tin duoc	no khong tin
+ga cua ong Tu chet mat hai con	ong Tu ga hai chet
+anh_ay da giet ong Ba	anh_ay ong Ba giet
+anh_ay da lay tien ong Ba	ong Ba anh_ay lay tien
+toi khong tieu tien_cua ong Ba	toi ong Ba tieu tien_cua khong
+no phai giai nhieu bai	no nhieu bai phai giai
+no giai duoc nam bai , thi ba bai dung	no bai nam ba dung
+con hai bai kia thi sai	con hai sai
+anh_ta biet danh bong_ban	anh_ta bong_ban danh biet
+trong khoa con co nguoi khac biet danh bong_ban	trong khoa nguoi bong_ban danh co
+nang_luc chuyen_mon cua anh_ta noi ra khong tien	noi anh_ta nang_luc chuyen_mon tien khong
+noi vao_de	noi vao_de
+noi het	noi het
+noi vua du	noi du vua
+noi ro_rang	noi ro_rang
+tu xom ben boc len mot cot khoi	xom ben cot khoi boc len
+la rung tren them	tren them la rung
+chia_khoa nay mo_cua kho	chia_khoa nay kho mo_cua
+co muoi	muoi co
+con tien trong tui	tui tien con
+tren tuong treo mot buc tranh	buc tranh tren tuong
+con cho chay ngoai san	ngoai san cho chay
+thang be nhin con ho	thang be ho nhin
+Nam lau ban	Nam ban lau
+Nam dong ban	Nam ban dong
+Nam cho em be cai keo	Nam em be cho keo
+Nam dap cai coc vo tan	Nam coc dap vo
+Nam danh cai chuong keu boong_boong	Nam chuong danh boong_boong
+Nam sai em di mua thuoc_la	Nam em sai thuoc_la mua
+gio mo tung cua_so	cua_so gio mo
+gio khong nen mo tung cua_so	cua_so gio mo khong nen
+chau be gay_yeu qua	be gay_yeu
+chung_toi rat thuong chau	chung_toi chau thuong
+chang yeu nang	
+no rat so ran	ran no so
+con te_giac khong khoe bang con voi	voi te_giac khoe khong bang
+anh_ay gioi hon	anh_ay gioi hon
+chuong 1 la chuong dai nhat cua cuon sach	chuong 1 chuong cuon sach dai nhat
+trung_uy Dung la chi_huy dai_doi chung_toi	trung_uy Dung dai_doi chung_toi chi_huy
+day la cho hop thich_hop nhat	day la cho hop thich_hop nhat
+chiec xe kho cua van moi hon cua toi	xe anh moi hon van cua toi
+chieu nay the_nao cung mua	chieu nay mua the_nao cung
+sao anh no lam the	anh lam the sao no
+toi can biet ngay anh len_duong	ngay anh len_duong toi biet can
+lan sau con the nua thi toi khong de cho anh yen dau	lan sau anh toi de khong yen
+tap truyen cua anh la mot kiet_tac	truyen anh kiet_tac
+moi nguoi dung_day	moi nguoi dung_day
+moi nguoi dung_day di	moi nguoi dung_day
+moi nguoi dung_day u	moi nguoi dung_day
+canh dep ma buon	canh dep ma buon
+canh dep ma buon lam_sao	canh dep ma buon lam_sao
+toi cam anh hut thuoc_la	anh thuoc_la hut toi cam
+cha toi cam toi hut thuoc_la	toi hut thuoc_la cha cam
+toi da bo thuoc_la	toi thuoc_la bo
+toi cam anh	toi anh cam
+toi cam day	toi cam
+toi da cam anh kia roi ma	toi anh cam
+toi cam no roi	toi no cam
+no cam anh a	no anh cam
+de_nghi cac dong_chi yen_lang	dong_chi de_nghi yen_lang
+xin de_nghi cac dong_chi yen_lang	xin dong_chi de_nghi yen_lang
+toi gui cac ban loi chao than_ai	toi ban gui loi chao than_ai
+toi xin gui cac ban loi chao than_ai	toi ban gui loi chao than_ai
+	
+toi xin cam_on	toi cam_on
+cac con khong duoc cai nhau nua	con cai nhau khong duoc
+anh ke cai ban ay ra day cho dep	anh ban ke day dep
+bac vao choi xoi nuoc a	bac vao nuoc xoi
+cai bong hoa nay ve to qua	hoa nay ve to
+duong_sa lay_loi kinh nguoi	duong_sa lay_loi kinh
+chinh anh lam hong viec chu ai	anh lam hong
+lam nhu_the cung duoc chu sao	lam nhu_the duoc chu sao
+lai muon voi tien nua chu gi	muon tien chu gi
+anh phe_binh hay mat_sat toi day	anh toi phe_binh mat_sat
+con hay con meo danh vo binh hoa	con hay con meo binh hoa vo
+cau thich cho hon hay meo hon	cau cho meo thich hon
+Nam tang em be keo hay nuoc_hoa	keo hay nuoc_hoa be Nam tang
+minh di xe_lua hay may_bay	xe_lua hay may_bay minh di
+cuoc hop hoan lai mot tuan hay nua thang	hop hoan mot tuan hay nua thang
+ong co diem khong	ong diem co
+con muon an don phai khong	con don muon
+may co cam cai mom di khong	may mom cam
+ong cho toi xin ti lua	ong lua toi xin
+con hay ngung ngay cai viec dang danh_don ay	ngung ngay viec dang danh_don
+may cam cai mom di	may mom cam
+bo xuong day	bo xuong day
+an gi to_lon day_da lam_sao	an gi to_lon day_da lam_sao
+the_thi co kho cho toi khong	the_thi toi kho
+nguoi dau ma vo_tam	nguoi dau ma vo_tam
+to_quoc co bao_gio dep the_nay chang	to_quoc co bao_gio dep the_nay chang
+nham thang quan_thu , ban	nham quan_thu ban
+ngu di	
+may oi , hay ngung troi	may troi hay ngung
+la oi , dung rung nua	la oi rung dung
+dung xanh nhu la , bac nhu voi	xanh nhu la bac nhu voi dung
+hay tuoi mai mau xanh_tuoi anh thep	mau xanh_tuoi tuoi mai anh thep hay
+xin cac ban giu trat_tu	xin ban trat_tu
+cac ban giu trat_tu	ban trat_tu
+cac ban co giu trat_tu khong nao	ban trat_tu khong
+anh_ta co tai ma chang co duc	anh_ta tai co duc chang co
+viec nay kho lam day	viec nay kho lam day
+em oi , buon lam_chi	em buon lam_chi
+the co kho khong	the kho co
+nhung ngay toi dang song dang song bao_nhieu	nhung ngay toi song dang song bao_nhieu
+dep qua nhi	dep qua
+cuon truyen nay rat hay	cuon truyen nay hay
+cuon truyen nay khong hay	cuon truyen nay hay khong
+cuon truyen nay khong hay lam	cuon truyen nay hay khong
+thanh nay khong dai bang thanh kia	thanh nay thanh kia khong dai bang
+thanh nay ngan hon thanh kia	thanh nay thanh kia ngan hon
+re thi_co re , nhung khong dep	re thi_co re nhung dep khong
+no co gian anh that , nhung khong ghet anh dau	anh no gian co nhung ghet khong
+chau da lam bai thi toan	chau bai thi toan lam da
+bai thi toan chau duoc nua diem	bai thi toan chau nua diem
+vi_the la nhieu doi_voi chau	vi_the doi_voi chau nhieu
+chau ken qua day	chau ken qua
+con bac con tien con de_tu	bac con tien con de_tu con
+Nam treu em be	be Nam treu
+em be khoc	be khoc
+gio danh canh tre	canh tre gio danh
+gio thoi , may bay	thoi gio bay may
+cong_viec dang bon_be	cong_viec bon_be
+moi li_thuyet deu xam	li_thuyet moi xam deu
+Nam la hoc_sinh gioi	Nam hoc_sinh gioi
+dang tiec that	that tiec
+den dem da bat , san_bay lai bat_dau lam_viec	den dem bat san_bay bat_dau lam_viec
+vao dau tre cung song , o dau tre cung xanh tot	vao dau tre song dau tre xanh tot
+nuoc reo quanh chan lua , lua rung len , long nguoi cung rung len	nuoc quanh chan lua reo lua rung long nguoi rung
+ngoai dinh , trong lai thuc , mo lai khua , tu_va ruc lien_thanh bat chi	ngoai dinh trong thuc mo khua tu_va lien_thanh ruc
+cam ong banh ra , mat ong tron_trung , ca nguoi ong nhu mot pho tuong bang dong_den cuon_cuon nhung bap_thit	cam ong banh ra mat tron_trung ca nguoi pho tuong bang dong_den cuon_cuon bap_thit
+nhung chiec o_to chay di , chay lai nhu nhung con_thoi , may_bay_phan_luc rit ao_ao va len_loi giua tat_ca nhung o_to , may_bay ay co mot chiec xe_dap ba banh	o_to chay di chay nhu con_thoi may_bay_phan_luc rit va len_loi may_bay chiec xe_dap ba banh co
+cai Ty hai hang nuoc_mat rong_rong , hon_hit cac em mot luot , roi lui_thui , no doi me non tren dau va cap goi ao vao nach	Ty nuoc_mat rong_rong em hon_hit non doi me tren dau goi ao vao nach cap
+nuoc ta la mot , dan_toc ta la mot	nuoc mot dan_toc mot
+nhan_dan nhu nuoc , bo_doi nhu ca	nhan_dan nuoc bo_doi ca
+moi nguoi di roi chi con thang be Tun o nha	nguoi di chi con thang be Tun nha o
+hoa buoi thom roi : dem da khuya	hoa buoi thom dem khuya
+Luong bat den_pin nhin dong_ho tay : hai gio ruoi sang	Luong den_pin bat dong_ho tay nhin gio hai ruoi sang
+ben ve duong co hai cha_con lam_ruong : cha danh cay , con dap dat	ve duong cha_con lam_ruong hai cha cay danh con dat dap
+chi Hoang chay lai buyp phe lay mot quyen sach bia day gay da dem lai	Hoang sach mot lay bia day da gay dem
+minh doc hay toi doc	minh doc hay toi doc
+hoac la chung_ta phai nghi toi nhan_dan ; hoac la chung_ta chi lo_lang cho rieng minh	chung_ta nhan_dan nghi chung_ta minh lo_lang
+cho khong hop vi khong phai phien	cho khong hop vi khong phai phien
+nguoi_ta da yeu_men anh la vi_the	nguoi_ta anh yeu_men
+hai muc_dich khac_nhau , nen phuong_phap khoa_hoc va ky_thuat de dat den muc_dich cung khac_nhau	muc_dich hai khac_nhau phuong_phap khoa_hoc ky_thuat dat muc_dich khac_nhau
+em da song , boi_vi em chien thang	em song boi_vi em chien thang
+he toi hoi dong vao minh no , no lai le luoi ra y_nhu thuong_ngay	toi hoi dong no no le luoi
+thoi_dai bien_doi thi van_hoc cung bien_doi	thoi_dai bien_doi van_hoc bien_doi
+bo a ! neu the_thi con da gap anh Sa	bo con Sa gap
+mien_la dung tren lap_truong tu_tuong dai_chung nhan_dan ma giai_quyet thi ta van co_the van_dung moi hinh_thuc , ta van het_suc tu_do trong su lua_chon de_tai	tren lap_truong tu_tuong dai_chung nhan_dan ma giai_quyet thi ta hinh_thuc van_dung ta tu_do lua_chon de_tai
+van co hay tac_pham moi co gia_tri	van co tac_pham gia_tri co
+Viet_Minh ma len duoc thi dan do kho ong nhi	Viet_Minh len thi dan kho do
+tuy rat dep nhung mua nao thuc ay	tdep nhung mua nao thuc ay
+tuy mieng cuoi_noi vay_ma bung ong cung roi_boi len	mieng cuoi_noi vay_ma bung ong roi_boi
+mac_du vay doi_voi gia_dinh vo , Thu van co_y khong than_mat lam	doi_voi gia_dinh vo Thu than_mat co_y khong
+	
+chiec xe cang den gan pho Hang_Cot , Phuong cang hoi_hop	xe den gan pho Hang_Cot Phuong hoi_hop
+ngoai kia tieng go_cua manh bao_nhieu , trong nay trong_nguc toi manh bay_nhieu	ngoai kia tieng go_cua manh bao_nhieu trong nay trong_nguc toi manh bay_nhieu
+giai_cap nao nam quyen_so_huu ve tu_lieu_san_xuat thi giai_cap do la giai_cap thong_tri	giai_cap quyen_so_huu tu_lieu_san_xuat nam giai_cap thong_tri
+cang di xuong phong_cach cang quen mat	di xuong phong_cach quen mat
+toi co noi rat tu_nhien de anh khong mot_chut nghi_ngo	toi tu_nhien noi anh khong mot_chut nghi_ngo
+de cho me yen_tam , co thuong viet thu cho me	me yen_tam co thuong thu cho me viet
+anh danh dan cho toi nghe	anh dan danh toi nghe
+vo_luan ke dich hung_bao the_nao , he dung vao luc_luong do thi dich nao cung phai tan_ra	vo_luan dich hung_bao luc_luong dung thi dich tan_ra
+duong_nhien , khong phai tho nao cung cach_mang ca , nhung co cach_mang thi_co tho	duong_nhien khong phai tho nao cach_mang ca nhung co cach_mang thi_co tho
+cang chien_dau oanh_liet , cang thang_loi gion_gia , cang san_xuat cang xay_dung khoe bao_nhieu , nhan_dan ta cang yeu_quy van_nghe bay_nhieu , boi_vi van_nghe la tinh_hoa cua cuoc_song , la mot suc_manh , la mot vu_khi chien_dau va de chien_thang	oanh_liet chien_dau gion_gia thang_loi san_xuat xay_dung khoe nhan_dan van_nghe yeu_quy boi_vi van_nghe tinh_hoa cuoc_song la suc_manh vu_khi chien_dau chien_thang
+nha_nuoc cua chung_ta that_su dan_chu , vi nha_nuoc do thuc_su la cua dan , su_mang lich_su cua no la huy_dong luc_luong cua nhan_dan de xay_dung xa_hoi moi , doi_song moi , con_nguoi moi	nha_nuoc dan_chu nha_nuoc cua dan luc_luong nhan_dan huy_dong xa_hoi moi xay_dung doi_song moi con_nguoi moi
+cai canh trang_tron , gio mat , ho lang , troi xanh cua trung_thu , lai lam cho cac chau vui_cuoi hon_ho	trang_tron gio mat ho lang troi xanh trung_thu cac chau vui_cuoi hon_ho
+	
+Troi am_ap	Troi am_ap
+Khong_khi em_a va trong_sach	Khong_khi em_a trong_sach
+ngoai xa , dong_song lao_xao vo song	xa dong_song song vo
+Gio chay loat_soat trong co	Gio loat_soat chay trong co
+trang da len cao , dem da khuya lam	trang cao dem khuya
+muon am_no thi_phai lam_gi	am_no lam_gi
+Phai lam the_nao	lam the_nao
+Phai tang_gia_san_xuat	tang_gia_san_xuat Phai
+doi A_Phu noi xong voi vo , anh Lien than_mat hoi : Tay bat A_Phu may hom	A_Phu noi xong Lien than_mat hoi Tay A_Phu bat hom may
+Lam_sao ma tron ve duoc	tron ve Lam_sao
+no lam ra_ve ngac_nhien , khong he biet gi	no ngac_nhien biet khong gi
+van_hoc nghe_thuat la gi , xua_nay nguoi_ta da dinh_nghia nhieu roi	van_hoc nghe_thuat xua_nay nguoi_ta da dinh_nghia
+duoi co Viet_Minh , dong_bao hay dung_cam tien len	duoi co Viet_Minh dong_bao hay dung_cam tien len
+tu bay_gio den bay_gio , hon sau nam troi roi	bay_gio bay_gio hon sau nam
+Biet_bao_nhieu la su doi_thay	Biet_bao_nhieu la doi_thay
+that vi_dai , nguoi chien_si trong gian_kho nghin_trung cang cao voi_voi y_chi diet thu cuu nuoc	vi_dai chien_si trong gian_kho nghin_trung cao voi_voi y_chi thu diet nuoc cuu
+yeu Bac , long ta trong sach hon	Bac yeu long ta trong sach hon
+noi_niem xua , nghi ma thuong	noi_niem xua thuong nghi
+oi_chao , nhung viec_lam mo_duong , tao loi di cho ke den sau bao_gio cung nghiem_trang va kho_nhoc	viec_lam mo_duong loi di tao cho ke den sau bao_gio nghiem_trang va kho_nhoc
+noi_tom_lai , moi can_bo , moi hoi_vien phai hoc li_luan , phai dem li_luan ap_dung vao thuc_te	noi_tom_lai can_bo hoi_vien li_luan phai hoc li_luan phai dem thuc_te ap_dung
+trong cuoc hop , toi da neu cau_hoi ay len , cau_hoi quan_trong nhat	trong cuoc hop toi da cau_hoi neu nhat quan_trong
+nhung don tre , nhung thanh tre , nhung liep nua da bac qua cau , da mo_duong cho anh bo_doi tien len , nuoc Viet_Nam tien len	don tre thanh tre liep nua cau bac bo_doi mo_duong tien len Viet_Nam tien
+tung bui tre , vuon che , vuon co , con ngoi , dam ruong da quen_thuoc , dang yeu khong khac_gi noi que_huong minh roi	bui tre vuon che vuon co ngoi ruong quen_thuoc yeu khong khac_gi noi que_huong minh
+tre , nua , mai , vau giup nguoi tram_nghin cong_viec khac_nhau	tre nua mai vau nguoi tram_nghin cong_viec khac_nhau giup
+can_bo cua Dang , cua Nha_nuoc va cua cac doan_the nhan_dan , dang_vien va doan_vien thanh_nien lao_dong can phai xung_phong guong_mau trong san_xuat va cong_tac	can_bo Dang Nha_nuoc doan_the nhan_dan dang_vien va doan_vien thanh_nien lao_dong guong_mau xung_phong trong san_xuat va cong_tac
+than toi kho , than Ngoi cung kho	than toi kho than Ngoi kho
+tuy_vay , lam tho khong phai de	tuy_vay lam tho khong phai de
+sang_tao la van_de rat quan_trong ; khong sang_tao khong lam cach_mang duoc	sang_tao van_de quan_trong khong sang_tao khong lam cach_mang duoc
+phai day_manh toc_do co_gioi_hoa nong_nghiep ; day_manh cai_tao giong gia_suc va cay_trong nham thuc_hien tham_canh tren toan_bo dien_tich trong_trot	toc_do co_gioi_hoa nong_nghiep day_manh giong gia_suc va cay_trong cai_tao thuc_hien tham_canh tren toan_bo dien_tich trong_trot
+toi chao roi hoi : " Di cho huyen nao , ong lam_on chi giup toi "	toi chao hoi Di cho huyen nao ong chi giup toi lam_on
+anh_ta bay cho toi mot_cach : dung doi day , gap ai ganh hang di cho thi di theo	anh_ta toi mot_cach bay dung doi ai ganh hang gap cho di di theo
+nhung chuyen vui , chuyen buon , chuyen gia_dinh , chuyen hang_xom , … ke mai khong het	chuyen vui chuyen buon chuyen gia_dinh chuyen hang_xom ke mai khong het
+anh lay ao … lay chan toi … mac vao … mac di	anh ao lay chan toi lay mac vao mac di
+chong chi - anh Nguyen_Van_Dau - tuy moi 26 tuoi nhung da hoc nghe lam_ruong den muoi_bay nam	chong chi Nguyen_Van_Dau tuy moi 26 tuoi nhung hoc nghe lam_ruong nam muoi_bay
+the hai bac da dat ten chau chua	hai bac ten chau dat chua
+toi se thi_hanh nhiem_vu - nguoi chien_si noi	toi nhiem_vu thi_hanh chien_si noi
+sau khi den duoc ba ngay , anh hoi toi " Anh dan , anh co biet viet chu_quoc_ngu khong ? "	ba ngay duoc anh toi hoi Anh dan chu_quoc_ngu biet viet khong
+Toi hoi then nhung tra_loi thanh_that : " khong , toi khong biet "	Toi then nhung tra_loi thanh_that khong
+moi ngay thuong_lai mua it_nhat 6 tan chuoi_lun con xanh o Quang_Ngai , ngam vao be pha hoa_chat truoc khi dong_goi dua di tieu_thu	ngay thuong_lai 6 tan chuoi_lun xanh mua Quang_Ngai hoa_chat ngam truoc dong_goi tieu_thu
+lien_tuc trong hai tuan qua , nhieu thuong_lai thue hang chuc lao_dong tu cac tinh phia Bac vao xa Tinh_Ha , huyen Son_Tinh , noi co hang tram hoc dan trong chuoi_lun ven song Tra KHuc , de mo dai_ly thu_mua chuoi_lun con xanh xuat sang Trung_Quoc	tuan hai lien_tuc thuong_lai huc lao_dong thue tu cac tinh phia Bac vao Tinh_Ha Son_Tinh co hang tram hoc dan chuoi_lun trong ven song Tra KHuc dai_ly mo chuoi_lun con xanh thu_mua xuat Trung_Quoc
+Ong Hoang_Van_Thien cho_biet , moi buoi_sang , ong chu nguoi Trung_Quoc mang thung catton dung day cac lo nhua hoa_chat de hoa vao be da_chien phu bat day nuoc	Hoang_Van_Thien cho_biet buoi_sang chu Trung_Quoc thung catton mang lo nhua hoa_chat dung hoa vao be da_chien phu bat day nuoc
+con hay ngung ngay cai viec dang danh_don ay	ngung ngay viec dang danh_don
+may cam cai mom di	may mom cam
+bo xuong day	bo xuong day
+an gi to_lon day_da lam_sao	an gi to_lon day_da lam_sao
+the_thi co kho cho toi khong	the_thi toi kho
+nguoi dau ma vo_tam	nguoi dau ma vo_tam
+to_quoc co bao_gio dep the_nay chang	to_quoc co bao_gio dep the_nay chang
+nham thang quan_thu , ban	nham quan_thu ban
+ngu di	
+may oi , hay ngung troi	may troi hay ngung
+la oi , dung rung nua	la oi rung dung
+dung xanh nhu la , bac nhu voi	xanh nhu la bac nhu voi dung
+hay tuoi mai mau xanh_tuoi anh thep	mau xanh_tuoi tuoi mai anh thep hay
+xin cac ban giu trat_tu	xin ban trat_tu
+cac ban giu trat_tu	ban trat_tu
+cac ban co giu trat_tu khong nao	ban trat_tu khong
+anh_ta co tai ma chang co duc	anh_ta tai co duc chang co
+viec nay kho lam day	viec nay kho lam day
+em oi , buon lam_chi	em buon lam_chi
+the co kho khong	the kho co
+nhung ngay toi dang song dang song bao_nhieu	nhung ngay toi song dang song bao_nhieu
+dep qua nhi	dep qua
+cuon truyen nay rat hay	cuon truyen nay hay
+cuon truyen nay khong hay	cuon truyen nay hay khong
+cuon truyen nay khong hay lam	cuon truyen nay hay khong
+thanh nay khong dai bang thanh kia	thanh nay thanh kia khong dai bang
+thanh nay ngan hon thanh kia	thanh nay thanh kia ngan hon
+re thi_co re , nhung khong dep	re thi_co re nhung dep khong
+no co gian anh that , nhung khong ghet anh dau	anh no gian co nhung ghet khong
+chau da lam bai thi toan	chau bai thi toan lam da
+bai thi toan chau duoc nua diem	bai thi toan chau nua diem
+vi_the la nhieu doi_voi chau	vi_the doi_voi chau nhieu
+chau ken qua day	chau ken qua
+con bac con tien con de_tu	bac con tien con de_tu con
+Nam treu em be	be Nam treu
+em be khoc	be khoc
+gio danh canh tre	canh tre gio danh
+gio thoi , may bay	thoi gio bay may
+cong_viec dang bon_be	cong_viec bon_be
+moi li_thuyet deu xam	li_thuyet moi xam deu
+Nam la hoc_sinh gioi	Nam hoc_sinh gioi
+dang tiec that	that tiec
+den dem da bat , san_bay lai bat_dau lam_viec	den dem bat san_bay bat_dau lam_viec
+vao dau tre cung song , o dau tre cung xanh tot	vao dau tre song dau tre xanh tot
+nuoc reo quanh chan lua , lua rung len , long nguoi cung rung len	nuoc quanh chan lua reo lua rung long nguoi rung
+ngoai dinh , trong lai thuc , mo lai khua , tu_va ruc lien_thanh bat chi	ngoai dinh trong thuc mo khua tu_va lien_thanh ruc
+cam ong banh ra , mat ong tron_trung , ca nguoi ong nhu mot pho tuong bang dong_den cuon_cuon nhung bap_thit	cam ong banh ra mat tron_trung ca nguoi pho tuong bang dong_den cuon_cuon bap_thit
+nhung chiec o_to chay di , chay lai nhu nhung con_thoi , may_bay_phan_luc rit ao_ao va len_loi giua tat_ca nhung o_to , may_bay ay co mot chiec xe_dap ba banh	o_to chay di chay nhu con_thoi may_bay_phan_luc rit va len_loi may_bay chiec xe_dap ba banh co
+cai Ty hai hang nuoc_mat rong_rong , hon_hit cac em mot luot , roi lui_thui , no doi me non tren dau va cap goi ao vao nach	Ty nuoc_mat rong_rong em hon_hit non doi me tren dau goi ao vao nach cap
+nuoc ta la mot , dan_toc ta la mot	nuoc mot dan_toc mot
+nhan_dan nhu nuoc , bo_doi nhu ca	nhan_dan nuoc bo_doi ca
+moi nguoi di roi chi con thang be Tun o nha	nguoi di chi con thang be Tun nha o
+hoa buoi thom roi : dem da khuya	hoa buoi thom dem khuya
+Luong bat den_pin nhin dong_ho tay : hai gio ruoi sang	Luong den_pin bat dong_ho tay nhin gio hai ruoi sang
+ben ve duong co hai cha_con lam_ruong : cha danh cay , con dap dat	ve duong cha_con lam_ruong hai cha cay danh con dat dap
+chi Hoang chay lai buyp phe lay mot quyen sach bia day gay da dem lai	Hoang sach mot lay bia day da gay dem
+minh doc hay toi doc	minh doc hay toi doc
+hoac la chung_ta phai nghi toi nhan_dan ; hoac la chung_ta chi lo_lang cho rieng minh	chung_ta nhan_dan nghi chung_ta minh lo_lang
+cho khong hop vi khong phai phien	cho khong hop vi khong phai phien
+nguoi_ta da yeu_men anh la vi_the	nguoi_ta anh yeu_men
+hai muc_dich khac_nhau , nen phuong_phap khoa_hoc va ky_thuat de dat den muc_dich cung khac_nhau	muc_dich hai khac_nhau phuong_phap khoa_hoc ky_thuat dat muc_dich khac_nhau
+em da song , boi_vi em chien thang	em song boi_vi em chien thang
+he toi hoi dong vao minh no , no lai le luoi ra y_nhu thuong_ngay	toi hoi dong no no le luoi
+thoi_dai bien_doi thi van_hoc cung bien_doi	thoi_dai bien_doi van_hoc bien_doi
+bo a ! neu the_thi con da gap anh Sa	bo con Sa gap
+mien_la dung tren lap_truong tu_tuong dai_chung nhan_dan ma giai_quyet thi ta van co_the van_dung moi hinh_thuc , ta van het_suc tu_do trong su lua_chon de_tai	tren lap_truong tu_tuong dai_chung nhan_dan ma giai_quyet thi ta hinh_thuc van_dung ta tu_do lua_chon de_tai
+van co hay tac_pham moi co gia_tri	van co tac_pham gia_tri co
+Viet_Minh ma len duoc thi dan do kho ong nhi	Viet_Minh len thi dan kho do
+tuy rat dep nhung mua nao thuc ay	tdep nhung mua nao thuc ay
+tuy mieng cuoi_noi vay_ma bung ong cung roi_boi len	mieng cuoi_noi vay_ma bung ong roi_boi
+mac_du vay doi_voi gia_dinh vo , Thu van co_y khong than_mat lam	doi_voi gia_dinh vo Thu than_mat co_y khong
+	
+chiec xe cang den gan pho Hang_Cot , Phuong cang hoi_hop	xe den gan pho Hang_Cot Phuong hoi_hop
+ngoai kia tieng go_cua manh bao_nhieu , trong nay trong_nguc toi manh bay_nhieu	ngoai kia tieng go_cua manh bao_nhieu trong nay trong_nguc toi manh bay_nhieu
+giai_cap nao nam quyen_so_huu ve tu_lieu_san_xuat thi giai_cap do la giai_cap thong_tri	giai_cap quyen_so_huu tu_lieu_san_xuat nam giai_cap thong_tri
+cang di xuong phong_cach cang quen mat	di xuong phong_cach quen mat
+toi co noi rat tu_nhien de anh khong mot_chut nghi_ngo	toi tu_nhien noi anh khong mot_chut nghi_ngo
+de cho me yen_tam , co thuong viet thu cho me	me yen_tam co thuong thu cho me viet
+anh danh dan cho toi nghe	anh dan danh toi nghe
+vo_luan ke dich hung_bao the_nao , he dung vao luc_luong do thi dich nao cung phai tan_ra	vo_luan dich hung_bao luc_luong dung thi dich tan_ra
+duong_nhien , khong phai tho nao cung cach_mang ca , nhung co cach_mang thi_co tho	duong_nhien khong phai tho nao cach_mang ca nhung co cach_mang thi_co tho
+cang chien_dau oanh_liet , cang thang_loi gion_gia , cang san_xuat cang xay_dung khoe bao_nhieu , nhan_dan ta cang yeu_quy van_nghe bay_nhieu , boi_vi van_nghe la tinh_hoa cua cuoc_song , la mot suc_manh , la mot vu_khi chien_dau va de chien_thang	oanh_liet chien_dau gion_gia thang_loi san_xuat xay_dung khoe nhan_dan van_nghe yeu_quy boi_vi van_nghe tinh_hoa cuoc_song la suc_manh vu_khi chien_dau chien_thang
+nha_nuoc cua chung_ta that_su dan_chu , vi nha_nuoc do thuc_su la cua dan , su_mang lich_su cua no la huy_dong luc_luong cua nhan_dan de xay_dung xa_hoi moi , doi_song moi , con_nguoi moi	nha_nuoc dan_chu nha_nuoc cua dan luc_luong nhan_dan huy_dong xa_hoi moi xay_dung doi_song moi con_nguoi moi
+cai canh trang_tron , gio mat , ho lang , troi xanh cua trung_thu , lai lam cho cac chau vui_cuoi hon_ho	trang_tron gio mat ho lang troi xanh trung_thu cac chau vui_cuoi hon_ho
+	
+Troi am_ap	Troi am_ap
+Khong_khi em_a va trong_sach	Khong_khi em_a trong_sach
+ngoai xa , dong_song lao_xao vo song	xa dong_song song vo
+Gio chay loat_soat trong co	Gio loat_soat chay trong co
+trang da len cao , dem da khuya lam	trang cao dem khuya
+muon am_no thi_phai lam_gi	am_no lam_gi
+Phai lam the_nao	lam the_nao
+Phai tang_gia_san_xuat	tang_gia_san_xuat Phai
+doi A_Phu noi xong voi vo , anh Lien than_mat hoi : Tay bat A_Phu may hom	A_Phu noi xong Lien than_mat hoi Tay A_Phu bat hom may
+Lam_sao ma tron ve duoc	tron ve Lam_sao
+no lam ra_ve ngac_nhien , khong he biet gi	no ngac_nhien biet khong gi
+van_hoc nghe_thuat la gi , xua_nay nguoi_ta da dinh_nghia nhieu roi	van_hoc nghe_thuat xua_nay nguoi_ta da dinh_nghia
+duoi co Viet_Minh , dong_bao hay dung_cam tien len	duoi co Viet_Minh dong_bao hay dung_cam tien len
+tu bay_gio den bay_gio , hon sau nam troi roi	bay_gio bay_gio hon sau nam
+Biet_bao_nhieu la su doi_thay	Biet_bao_nhieu la doi_thay
+that vi_dai , nguoi chien_si trong gian_kho nghin_trung cang cao voi_voi y_chi diet thu cuu nuoc	vi_dai chien_si trong gian_kho nghin_trung cao voi_voi y_chi thu diet nuoc cuu
+yeu Bac , long ta trong sach hon	Bac yeu long ta trong sach hon
+luc ay co_the nghe thay mot cai tac rat keu	luc ay tat nghe
+luc ay co_the nghe thay tieng dam_da nhau binh_bich	luc ay co_the dam_da nghe binh_bich
+dam_da nhu_the cu goi_la tan xuong	dam_da nhu_the tan xuong
+dai_bac ung_oang suot dem	dai_bac ung_oang suot dem
+tieng ung_oang cua dai_bac nghe thua dan	tieng dai_bac ung_oang nghe thua dan
+co_tieng dai_bac no ung_oang tu xa	xa co_tieng dai_bac ung_oang
+dieu ay toi biet roi	dieu ay toi biet roi
+dieu anh vua noi ay toi biet roi	dieu anh vua noi toi biet
+toi da xem tran ay	toi tran ay da xem
+toi da xem doi ta dau voi doi ban	toi xem doi ta doi ban dau
+vi loi_ich chung ong_ta da xin tu_chuc	vi loi_ich chung ong_ta tu_chuc xin
+Cu Tu da bac het ca toc roi	Cu Tu toc bac het
+Cu Tu toc bac het ca roi	Cu Tu toc bac het
+oi , canh ly_biet ma_sao buon vay	ly_biet ma_sao buon
+anh Duc nay , anh lay toi lam vo nhe	anh Duc anh toi lay lam vo
+ong Chuong , pho cua cha toi , nay da len tuong	ong Chuong pho cha toi nay len tuong
+anh co biet ong ay khong , ong Van ay ma	anh ong ay biet Van
+khong ai noi_gi , moi nguoi lang dan ra	ai noi_gi khong moi nguoi lang dan
+khong ai noi_gi , roi moi nguoi lang dan ra	ai noi_gi khong moi nguoi lang dan
+khong ai noi_gi nhung moi nguoi lang dan ra	ai noi_gi khong nhung moi nguoi lang dan
+khong ai noi_gi nen moi nguoi lang dan ra	ai noi_gi khong nen moi nguoi lang dan
+tuy khong ai noi_gi nhung moi nguoi lang dan ra	tuy ai noi_gi khong nhung moi nguoi lang dan
+vi khong ai noi_gi nen moi nguoi lang dan	vi ai noi_gi khong nen moi nguoi lang dan
+da bay_lau_nay bac toi nha	da bay_lau_nay bac toi nha
+tre thoi di vang , cho thoi xa	tre thoi di vang cho thoi xa
+ao sau nuoc ca , khon chai ca	ao nuoc sau khon chai ca
+vuon rong rao thua , kho duoi ga	vuon rong rao thua ga kho duoi
+cai chua ra cay , ca moi nu	cai cay chua ra ca nu moi
+bau vua rung ron , muop ra hoa	bau ron rung muop hoa ra
+dau_tro tiep khach trau_khong co	dau_tro khach tiep trau_khong co
+bac den choi day , ta voi ta	bac den choi day ta voi ta
+toi cung khong biet	toi khong biet cung
+sao anh lai noi the	anh noi sao
+chuyen nay nghiem_trong day	chuyen nay nghiem_trong
+nhung ai biet ma so	biet ai ma so
+sau day la vai diem can noi ro them	sau day vai diem noi ro can
+toi khong dinh vao viec nay	toi dinh khong vao
+anh cung dung nghi_ngo gi anh_ay	anh nghi_ngo dung anh_ay
+co nhung muoi nguoi vang_mat	co nguoi muoi vang_mat
+ga kia lam hong cai may mat	ga kia may lam hong
+no co_y lam hong cai may that	no may lam hong co_y
+Nam se trung_cu do la mot dieu chac_chan	Nam trung_cu la dieu chac_chan
+the_ma qua thi , la thay , van khong roi xuong	the_ma qua thi roi xuong khong la
+cua_dang_toi , no co biet gi dau	cua_dang_toi no biet gi
+luat nay , nhu ai_nay deu biet , co mot pham_vi hieu luat rat hep	ai_nay deu biet luat nay pham_vi hieu luat hep
+no lam rach cai man mat	no cai man lam rach
+no lam rach mat cai man	no cai man lam rach
+no lam rach cai man mat roi	no cai man lam rach
+vi khong doc ky de , no da lam hong mat bai tap_lam_van	de doc ky khong no tap_lam_van hong
+to se duoc diem 10 ve mon toan mot_cach chac_chan	to toan diem 10 duoc
+toi chi tap_trung tu_tuong duoc trong vong mot gio dong_ho	toi tu_tuong tap_trung duoc mot gio
+ong ay lam_viec lien_tuc suot tu sang den chieu	ong ay lam_viec sang chieu lien_tuc
+no lam hong bai tap_lam_van vi khong doc ky de_bai	no tap_lam_van lam hong vi de_bai doc khong ky
+suot tu sang den chieu , ong ay lam_viec lien_tuc	sang chieu ong ay lam_viec lien_tuc
+chac_chan la to se duoc diem 10 ve mon toan	to toan diem 10 duoc chac_chan
+no hong ki thi nay vi mon toan	no toan thi hong
+no hong ki thi nay vi dot	no thi hong vi dot
+no hong ki thi nay vi lac_de	no thi hong vi lac_de
+no hong ki thi nay vi de thi kho qua	no thi hong vi de kho
+em oi buon lam_chi	em buon lam_chi
+van van_de nay thua cac ban chung_ta co rat nhieu y_kien	cac ban chung_ta van_de nay y_kien nhieu co
+cau Vang di_doi roi ong giao a	ong giao cau Vang di_doi roi
+ma chang quen chi cao vi su_nghiep	ma chang su_nghiep chi cao vi
+gioi_oi la gioi , co chong_con nha nao nhu_the khong	gioi_oi gioi co chong_con nha nao nhu_the
+sau truc , o_kia	truc sau o_kia
+Xiem_ao ai	Xiem_ao ai
+troi_dat a , co doi_nao nhu_vay , cai tho_ta gi cung dat	troi_dat co doi_nao nhu_vay tho_ta gi dat cung
+vang , moi ba cu ngoi choi thu_tha xoi nuoc , xoi trau da	moi ba ngoi choi nuoc xoi trau xoi
+o_hay , con lam_gi	o_hay con lam_gi
+vang , toi biet	vang toi biet
+Tinh ong Cuu nha toi nhan lao tam bat lao	tinh ong Cuu toi nhan lao tam bat lao
+o_hay , me_con no di dau ca roi	o_hay me_con dau
+co be nha ben ai_ngo cung la du_kich	co be nha ben ai_ngo la du_kich
+ong Nam ay ma , ong ay tot lam	ong Nam tot
+dieu ta khong muon thi khong nen lam cho nguoi khac	ta dieu muon khong lam cho nguoi khac nen khong
+bang_long hay khong thi cung noi cho ngta biet	bang_long hay khong thi noi nguoi_ta biet
+de nguoi de ta	de nguoi de ta
+	
+lam thay ray ma	thay lam ma ray
+toi thi lam duoc	toi lam duoc
+con toi dua thi di lam , dua thi di hoc	con toi dua lam dua hoc
+mon nay an thi ngon nhung lam thi mat_cong	mon nay ngon nhung lam mat_cong
+viec nay khong chong thi chay cung se dua den ket_qua xau	viec nay khong chong thi chay ket_qua xau
+anh_em o day khong_it_thi_nhieu deu co dong_gop	anh_em o day khong_it_thi_nhieu dong_gop co
+hinh_nhu anh hai_long lam thi_phai	hinh_nhu anh hai_long
+anh Nam lam_viec thi cham_chi	Nam lam_viec cham_chi
+anh Nam lam_viec cham_chi	Nam lam_viec cham_chi
+anh moi thi toi den	anh moi toi den
+anh moi toi den	anh moi toi den
+thay dich thi khai_trien doi_hinh	dich thay thi doi_hinh khai_trien
+thay dich khai_trien doi_hinh	dich thay doi_hinh khai_trien
+khi tau chay thi ve	tau chay thi ve
+khi tau chay ve	khi tau ve
+khong lam , khong an	lam khong an khong
+khong lam thi khong an	lam khong thi an khong
+can gi , noi ngay di	can noi
+can gi thi noi ngay di	can thi noi
+Khong lam thi khong an day nhe	lam khong thi an khong
+can gi thi noi ngay di , thua bam mai	can gi thi noi bam mai
+can gi ? noi ngay di	can gi ? noi
+cho treo , meo day	cho treo meo day
+mem nan , ran buong	mem nan ran vuong
+ca ca , lon lon	ca ca lon lon
+tren thuan duoi hoa	tren thuan duoi hoa
+trong thi am , ngoai thi em	trong am ngoai em
+boi thi_ra ma , quet nha thi_ra rac	boi thi_ra nha quet rac thi_ra
+trong co am thi ngoai moi co em	trong am thi ngoai em
+boi ma ra ma thi quet nha ra rac	boi ma ra thi nha quet rac
+troi thi mua lam_tham	mua lam_tham
+lam_sao cho khoi uot	uot lam_sao
+moi nguoi di truoc ca roi , con toi thi toi se di_sau	moi nguoi di roi , toi di_sau se
+ai chu , anh Ba thi khoi phai gioi_thieu	gioi_thieu Ba phai khoi
+toi thuong me nhat	toi me thuong nhat
+khi co nhieu may den thi se co lu_lut	khi may den nhieu thi lu_lut co
+khi troi mua tanh thi se co cau vong	khi mua tanh cau vong co
+anh toi danh ong binh	anh toi Binh danh
+ong binh bi anh toi danh	anh toi Binh danh
+cuon sach dat tren tap nhac	tap nhac cuon sach tren
+ra lay ao_quan vao di con	ra ao_quan lay
+con da cat ao_quan vao chua	con ao_quan cat chua
+sap mua roi day	mua sap
+tap nhac dat duoi cuon sach	cuon sach tap nhac duoi
+troi sap mua den_noi roi kia	mua sap
+Lan oi , mua	Lan mua
+may co ra lay ao_quan vao khong Lan	Lan ra ao_quan lay
+Mua uot het bay_gio	mua uot het
+con phai cat ao_quan vao keo mua den_noi roi day	con ao_quan cat mua
+nuoc soi roi	nuoc soi roi
+trong phich co nuoc soi day	phich nuoc soi co
+toi rot nuoc soi vao phich	toi phich nuoc soi rot
+ong noi ga , ba noi vit	ga ong noi vit ba noi
+ong thi noi ga , ba thi noi vit	ga ong noi vit ba noi
+ong noi ga thi ba noi vit	ga ong noi thi vit ba noi
+ong ma noi ga thi ba lai noi vit	ga ong noi thi vit ba noi
+gio ngu thi cac chau im_lang	gio ngu chau im_lang
+ong ngu thi cac chau nen im_lang	ong ngu chau im_lang
+sach hay thi ai cung thich doc	sach hay ai doc thich
+sach hay nguoi_ta moi thich doc	sach hay nguoi_ta doc thich
+sach ma hay thi ai cung thich doc	sach hay thi ai doc thich
+sach co hay thi nguoi_ta moi thich doc	sach hay co nguoi_ta doc thich
+me di Ha_Noi roi	me Ha_Noi roi
+nam nay mua it qua	mua nam nay it
+con meo nay khong dep	con meo nay dep khong
+anh thi can gi den toi	toi anh can gi
+cu Tu toc da bac het roi	Tu toc bac het roi
+vuon nha toi la rung nhieu	la vuon nha toi rung nhieu
+co mot nguoi thi lam khong xue	nguoi mot lam xue khong
+bay_gio chua muon dau	bay_gio muon chua
+tham thi tham	tham tham thi
+bao_gio troi noi can_qua	troi noi can_qua
+con vua that_the lai di quet chua	vua con that_the chua quet
+hon dat ma biet noi_nang thi thay_dia_ly ham_rang khong con	dat noi_nang biet thay_dia_ly ham_rang con khong
+con Cun nguoi_ta bat mat roi	cun nguoi_ta bat roi
+cay gao dau lang bi set danh_doi roi	dau lang cay gao set danh_do
+con con Cun dau roi	Cun dau
+con Cun thi nguoi_ta bat mat roi	Cun nguoi_ta bat roi
+ai lam duoc_viec nay	viec nay lam duoc ai
+toi lam duoc	toi duoc lam
+no chiu roi , con anh thi_co lam duoc khong a	no chiu roi anh lam duoc
+toi thi lam duoc	toi lam duoc
+con toi dua thi di lam , dua thi di hoc	con toi dua lam dua hoc
+mon nay an thi ngon nhung lam thi mat_cong	mon nay ngon nhung lam mat_cong
+viec nay khong chong thi chay cung se dua den ket_qua xau	viec nay khong chong thi chay ket_qua xau
+anh_em o day khong_it_thi_nhieu deu co dong_gop	anh_em o day khong_it_thi_nhieu dong_gop co
+hinh_nhu anh hai_long lam thi_phai	hinh_nhu anh hai_long
+anh Nam lam_viec thi cham_chi	Nam lam_viec cham_chi
+anh Nam lam_viec cham_chi	Nam lam_viec cham_chi
+anh moi thi toi den	anh moi toi den
+anh moi toi den	anh moi toi den
+thay dich thi khai_trien doi_hinh	dich thay thi doi_hinh khai_trien
+thay dich khai_trien doi_hinh	dich thay doi_hinh khai_trien
+khi tau chay thi ve	tau chay thi ve
+khi tau chay ve	khi tau ve
+khong lam , khong an	lam khong an khong
+khong lam thi khong an	lam khong thi an khong
+can gi , noi ngay di	can noi
+can gi thi noi ngay di	can thi noi
+Khong lam thi khong an day nhe	lam khong thi an khong
+can gi thi noi ngay di , thua bam mai	can gi thi noi bam mai
+can gi ? noi ngay di	can gi ? noi
+cho treo , meo day	cho treo meo day
+mem nan , ran buong	mem nan ran vuong
+ca ca , lon lon	ca ca lon lon
+tren thuan duoi hoa	tren thuan duoi hoa
+trong thi am , ngoai thi em	trong am ngoai em
+boi thi_ra ma , quet nha thi_ra rac	boi thi_ra nha quet rac thi_ra
+trong co am thi ngoai moi co em	trong am thi ngoai em
+boi ma ra ma thi quet nha ra rac	boi ma ra thi nha quet rac
+troi thi mua lam_tham	mua lam_tham
+lam_sao cho khoi uot	uot lam_sao
+moi nguoi di truoc ca roi , con toi thi toi se di_sau	moi nguoi di roi , toi di_sau se
+ai chu , anh Ba thi khoi phai gioi_thieu	gioi_thieu Ba phai khoi
+no thi no chang tin duoc dau	no tin chang
+no thi chang tin duoc dau	no tin chang
+thi_gio la vang_bac	thi_gio vang_bac
+Ha_Noi thu_do nuoc ta	Ha_Noi thu_do nuoc ta
+nguoi la hoa dat	nguoi hoa dat
+no che cam la no om day	no cam che no om day
+duoc tang giai 1 mot cau_be muoi_hai tuoi	giai 1 cau_be muoi_hai tuoi
+tren thuan duoi hoa la hay nhat	tren thuan duoi hoa
+trong danh ra ngoai danh vao thi nhat_dinh thang	danh trong ra ngoai danh vao thi thang nhat_dinh
+an_co_nhai_noi_co_nghi thi moi la nguoi khon	an_co_nhai_noi_co_nghi la nguoi khon
+khon song mong chet la mot thuc_te xa_hoi	khon song mong chet la xa_hoi thuc_te
+con_trau di truoc cai cay theo sau thi con lac_hau	con_trau di truoc cay sau thi lac_hau con
+	
+	
+loi nay tai ai thi toi khong biet	loi nay tai ai toi khong biet
+quan biet thi no chet	quan biet no chet
+mai da di thi toi chuan_bi khong kip	mai di toi chuan_bi khong kip
+sen xa ho sen kho ho can	ho sen xa ho can
+lieu xa dao lieu nga dao nghieng	lieu dao xa lieu nga dao nghieng
+som mua trua nang la anh yeu minh	mua som nang trua la anh minh yeu
+song_can_da_mon anh van thuy_chung	song_can_da_mon anh thuy_chung van
+ai di ai ve no cung chang de_y	di ai ve ai no chang de_y
+sang vac toi vac thi ai ma cha chan	vac sang vac toi chan
+dau qua	
+dang ban lut dau lut co	
+di dau_day	di dau_day
+khoe chu	
+co dau khong	dau co
+cam hut thuoc_la	thuoc_la hut cam
+khong chay xe trong san	trong san chay xe khong
+coi_chung mat xe	xe mat coi_chung
+phai ton_trong va giup_do nguoi gia_ca va phu_nu co_thai	ton_trong giup_do nguoi gia_ca phu_nu co_thai phai
+can an de ma song chu khong phai song de ma an	an song can chu song an khong phai
+ngoi xuong	
+moi ngoi xuong	moi ngoi
+quy_vi ngoi xuong di	quy_vi ngoi
+toi moi quy_vi an_toa	quy_vi an_toa moi
+cam_on cac ban	cam_on cac ban
+cam_on cac bac	cam_on cac bac
+khuya roi	khuya roi
+nong qua , sap mua roi	nong qua mua sap
+nhu tranh_thuy_mac ay , dep qua	nhu tranh_thuy_mac dep
+nhieu buom qua , co con dep qua kia	buom nhieu co con dep qua
+te den the kia a	te the
+o day luc nay , troi nong qua	o day luc nay nong qua
+o day luc nay , troi sap mua	o day luc nay mua sap
+so tac_gia nay nhan_dinh khac han	tac_gia nay nhan_dinh khac han
+da bao ma	bao da
+	
+mot cai tat rat keu	mot tat rat keu
+tieng dam , tieng da nhau binh_bich	dam da tieng binh_bich
+ho da bao ma	ho bao da
+phen nay thi_phai biet	phen nay thi_phai biet
+luc ay co_the nghe thay mot cai tac rat keu	luc ay tat nghe
+luc ay co_the nghe thay tieng dam_da nhau binh_bich	luc ay co_the dam_da nghe binh_bich
+dam_da nhu_the cu goi_la tan xuong	dam_da nhu_the tan xuong
+dai_bac ung_oang suot dem	dai_bac ung_oang suot dem
+tieng ung_oang cua dai_bac nghe thua dan	tieng dai_bac ung_oang nghe thua dan
+de_nghi cac dong_chi yen_lang	dong_chi de_nghi yen_lang
+xin de_nghi cac dong_chi yen_lang	xin dong_chi de_nghi yen_lang
+toi gui cac ban loi chao than_ai	toi ban gui loi chao than_ai
+toi xin gui cac ban loi chao than_ai	toi ban gui loi chao than_ai
+	
+toi xin cam_on	toi cam_on
+cac con khong duoc cai nhau nua	con cai nhau khong duoc
+anh ke cai ban ay ra day cho dep	anh ban ke day dep
+bac vao choi xoi nuoc a	bac vao nuoc xoi
+cai bong hoa nay ve to qua	hoa nay ve to
+duong_sa lay_loi kinh nguoi	duong_sa lay_loi kinh
+chinh anh lam hong viec chu ai	anh lam hong
+lam nhu_the cung duoc chu sao	lam nhu_the duoc chu sao
+lai muon voi tien nua chu gi	muon tien chu gi
+anh phe_binh hay mat_sat toi day	anh toi phe_binh mat_sat
+con hay con meo danh vo binh hoa	con hay con meo binh hoa vo
+cau thich cho hon hay meo hon	cau cho meo thich hon
+Nam tang em be keo hay nuoc_hoa	keo hay nuoc_hoa be Nam tang
+minh di xe_lua hay may_bay	xe_lua hay may_bay minh di
+cuoc hop hoan lai mot tuan hay nua thang	hop hoan mot tuan hay nua thang
+ong co diem khong	ong diem co
+con muon an don phai khong	con don muon
+may co cam cai mom di khong	may mom cam
+ong cho toi xin ti lua	ong lua toi xin
+con hay ngung ngay cai viec dang danh_don ay	ngung ngay viec dang danh_don
+may cam cai mom di	may mom cam
+bo xuong day	bo xuong day
+an gi to_lon day_da lam_sao	an gi to_lon day_da lam_sao
+the_thi co kho cho toi khong	the_thi toi kho
+nguoi dau ma vo_tam	nguoi dau ma vo_tam
+to_quoc co bao_gio dep the_nay chang	to_quoc co bao_gio dep the_nay chang
+nham thang quan_thu , ban	nham quan_thu ban
+ngu di	
+may oi , hay ngung troi	may troi hay ngung
+la oi , dung rung nua	la oi rung dung
+dung xanh nhu la , bac nhu voi	xanh nhu la bac nhu voi dung
+hay tuoi mai mau xanh_tuoi anh thep	mau xanh_tuoi tuoi mai anh thep hay
+xin cac ban giu trat_tu	xin ban trat_tu
+cac ban giu trat_tu	ban trat_tu
+cac ban co giu trat_tu khong nao	ban trat_tu khong
+anh_ta co tai ma chang co duc	anh_ta tai co duc chang co
+viec nay kho lam day	viec nay kho lam day
+em oi , buon lam_chi	em buon lam_chi
+the co kho khong	the kho co
+nhung ngay toi dang song dang song bao_nhieu	nhung ngay toi song dang song bao_nhieu
+dep qua nhi	dep qua
+cuon truyen nay rat hay	cuon truyen nay hay
+cuon truyen nay khong hay	cuon truyen nay hay khong
+cuon truyen nay khong hay lam	cuon truyen nay hay khong
+thanh nay khong dai bang thanh kia	thanh nay thanh kia khong dai bang
+thanh nay ngan hon thanh kia	thanh nay thanh kia ngan hon
+re thi_co re , nhung khong dep	re thi_co re nhung dep khong
+no co gian anh that , nhung khong ghet anh dau	anh no gian co nhung ghet khong
+chau da lam bai thi toan	chau bai thi toan lam da
+bai thi toan chau duoc nua diem	bai thi toan chau nua diem
+vi_the la nhieu doi_voi chau	vi_the doi_voi chau nhieu
+chau ken qua day	chau ken qua
+con bac con tien con de_tu	bac con tien con de_tu con
+Nam treu em be	be Nam treu
+em be khoc	be khoc
+gio danh canh tre	canh tre gio danh
+gio thoi , may bay	thoi gio bay may
+cong_viec dang bon_be	cong_viec bon_be
+moi li_thuyet deu xam	li_thuyet moi xam deu
+Nam la hoc_sinh gioi	Nam hoc_sinh gioi
+dang tiec that	that tiec
+den dem da bat , san_bay lai bat_dau lam_viec	den dem bat san_bay bat_dau lam_viec
+vao dau tre cung song , o dau tre cung xanh tot	vao dau tre song dau tre xanh tot
+nuoc reo quanh chan lua , lua rung len , long nguoi cung rung len	nuoc quanh chan lua reo lua rung long nguoi rung
+ngoai dinh , trong lai thuc , mo lai khua , tu_va ruc lien_thanh bat chi	ngoai dinh trong thuc mo khua tu_va lien_thanh ruc
+cam ong banh ra , mat ong tron_trung , ca nguoi ong nhu mot pho tuong bang dong_den cuon_cuon nhung bap_thit	cam ong banh ra mat tron_trung ca nguoi pho tuong bang dong_den cuon_cuon bap_thit
+nhung chiec o_to chay di , chay lai nhu nhung con_thoi , may_bay_phan_luc rit ao_ao va len_loi giua tat_ca nhung o_to , may_bay ay co mot chiec xe_dap ba banh	o_to chay di chay nhu con_thoi may_bay_phan_luc rit va len_loi may_bay chiec xe_dap ba banh co
+cai Ty hai hang nuoc_mat rong_rong , hon_hit cac em mot luot , roi lui_thui , no doi me non tren dau va cap goi ao vao nach	Ty nuoc_mat rong_rong em hon_hit non doi me tren dau goi ao vao nach cap
+nuoc ta la mot , dan_toc ta la mot	nuoc mot dan_toc mot
+nhan_dan nhu nuoc , bo_doi nhu ca	nhan_dan nuoc bo_doi ca
+moi nguoi di roi chi con thang be Tun o nha	nguoi di chi con thang be Tun nha o
+hoa buoi thom roi : dem da khuya	hoa buoi thom dem khuya
+Luong bat den_pin nhin dong_ho tay : hai gio ruoi sang	Luong den_pin bat dong_ho tay nhin gio hai ruoi sang
+ben ve duong co hai cha_con lam_ruong : cha danh cay , con dap dat	ve duong cha_con lam_ruong hai cha cay danh con dat dap
+may_va co kho thi moi_phai hoc	may_va kho thi moi_phai hoc
+minh em nay nuong thi khong kip	em ay nuong khong kip
+chua noi da cuoi la nguoi vo_duyen	noi chua cuoi da nguoi vo_duyen
+Cao_Bang gao_trang_nuoc_trong	Cao_Bang gao_trang_nuoc_trong
+ngon den khi to khi mo	den khi to khi mo
+mon nay an thi ngon lam thi ton cong	mon nay ngon an ton cong lam
+o day truoc la sau quen	o day la truoc quen sau
+luc nay gao_chau_cui_que	luc nay gao_chau_cui_que
+lam cho thi than_tan_ma_dai	
+ai ve ai o mac ai	ve ai o ai mac ai
+tren thuan duoi hoa la hay nhat	tren thuan duoi hoa
+trong danh ra ngoai danh vao thi nhat_dinh thang	danh trong ra ngoai danh vao thi thang nhat_dinh
+an_co_nhai_noi_co_nghi thi moi la nguoi khon	an_co_nhai_noi_co_nghi la nguoi khon
+khon song mong chet la mot thuc_te xa_hoi	khon song mong chet la xa_hoi thuc_te
+con_trau di truoc cai cay theo sau thi con lac_hau	con_trau di truoc cay sau thi lac_hau con
+	
+	
+loi nay tai ai thi toi khong biet	loi nay tai ai toi khong biet
+quan biet thi no chet	quan biet no chet
+mai da di thi toi chuan_bi khong kip	mai di toi chuan_bi khong kip
+sen xa ho sen kho ho can	ho sen xa ho can
+lieu xa dao lieu nga dao nghieng	lieu dao xa lieu nga dao nghieng
+som mua trua nang la anh yeu minh	mua som nang trua la anh minh yeu
+song_can_da_mon anh van thuy_chung	song_can_da_mon anh thuy_chung van
+ai di ai ve no cung chang de_y	di ai ve ai no chang de_y
+sang vac toi vac thi ai ma cha chan	vac sang vac toi chan
+dau qua	
+dang ban lut dau lut co	
+di dau_day	di dau_day
+khoe chu	
+co dau khong	dau co
+cam hut thuoc_la	thuoc_la hut cam
+khong chay xe trong san	trong san chay xe khong
+coi_chung mat xe	xe mat coi_chung
+phai ton_trong va giup_do nguoi gia_ca va phu_nu co_thai	ton_trong giup_do nguoi gia_ca phu_nu co_thai phai
+can an de ma song chu khong phai song de ma an	an song can chu song an khong phai
+ngoi xuong	
+moi ngoi xuong	moi ngoi
+quy_vi ngoi xuong di	quy_vi ngoi
+toi moi quy_vi an_toa	quy_vi an_toa moi
+cam_on cac ban	cam_on cac ban
+cam_on cac bac	cam_on cac bac
+khuya roi	khuya roi
+nong qua , sap mua roi	nong qua mua sap
+nhu tranh_thuy_mac ay , dep qua	nhu tranh_thuy_mac dep
+nhieu buom qua , co con dep qua kia	buom nhieu co con dep qua
+te den the kia a	te the
+o day luc nay , troi nong qua	o day luc nay nong qua
+o day luc nay , troi sap mua	o day luc nay mua sap
+so tac_gia nay nhan_dinh khac han	tac_gia nay nhan_dinh khac han
+da bao ma	bao da
+	
+mot cai tat rat keu	mot tat rat keu
+tieng dam , tieng da nhau binh_bich	dam da tieng binh_bich
+ho da bao ma	ho bao da
+phen nay thi_phai biet	phen nay thi_phai biet
+luc ay co_the nghe thay mot cai tac rat keu	luc ay tat nghe
+luc ay co_the nghe thay tieng dam_da nhau binh_bich	luc ay co_the dam_da nghe binh_bich
+dam_da nhu_the cu goi_la tan xuong	dam_da nhu_the tan xuong
+dai_bac ung_oang suot dem	dai_bac ung_oang suot dem
+tieng ung_oang cua dai_bac nghe thua dan	tieng dai_bac ung_oang nghe thua dan
+co_tieng dai_bac no ung_oang tu xa	xa co_tieng dai_bac ung_oang
+dieu ay toi biet roi	dieu ay toi biet roi
+dieu anh vua noi ay toi biet roi	dieu anh vua noi toi biet
+toi da xem tran ay	toi tran ay da xem
+toi da xem doi ta dau voi doi ban	toi xem doi ta doi ban dau
+vi loi_ich chung ong_ta da xin tu_chuc	vi loi_ich chung ong_ta tu_chuc xin
+Cu Tu da bac het ca toc roi	Cu Tu toc bac het
+Cu Tu toc bac het ca roi	Cu Tu toc bac het
+oi , canh ly_biet ma_sao buon vay	ly_biet ma_sao buon
+anh Duc nay , anh lay toi lam vo nhe	anh Duc anh toi lay lam vo
+ong Chuong , pho cua cha toi , nay da len tuong	ong Chuong pho cha toi nay len tuong
+anh co biet ong ay khong , ong Van ay ma	anh ong ay biet Van
+khong ai noi_gi , moi nguoi lang dan ra	ai noi_gi khong moi nguoi lang dan
+khong ai noi_gi , roi moi nguoi lang dan ra	ai noi_gi khong moi nguoi lang dan
+khong ai noi_gi nhung moi nguoi lang dan ra	ai noi_gi khong nhung moi nguoi lang dan
+khong ai noi_gi nen moi nguoi lang dan ra	ai noi_gi khong nen moi nguoi lang dan
+tuy khong ai noi_gi nhung moi nguoi lang dan ra	tuy ai noi_gi khong nhung moi nguoi lang dan
+vi khong ai noi_gi nen moi nguoi lang dan	vi ai noi_gi khong nen moi nguoi lang dan
+da bay_lau_nay bac toi nha	da bay_lau_nay bac toi nha
+tre thoi di vang , cho thoi xa	tre thoi di vang cho thoi xa
+ao sau nuoc ca , khon chai ca	ao nuoc sau khon chai ca
+vuon rong rao thua , kho duoi ga	vuon rong rao thua ga kho duoi
+cai chua ra cay , ca moi nu	cai cay chua ra ca nu moi
+bau vua rung ron , muop ra hoa	bau ron rung muop hoa ra
+dau_tro tiep khach trau_khong co	dau_tro khach tiep trau_khong co
+bac den choi day , ta voi ta	bac den choi day ta voi ta
+toi cung khong biet	toi khong biet cung
+sao anh lai noi the	anh noi sao
+chuyen nay nghiem_trong day	chuyen nay nghiem_trong
+nhung ai biet ma so	biet ai ma so
+sau day la vai diem can noi ro them	sau day vai diem noi ro can
+toi khong dinh vao viec nay	toi dinh khong vao
+anh cung dung nghi_ngo gi anh_ay	anh nghi_ngo dung anh_ay
+dung ra san , ngoai ay ret lam	san ra dung ngoai ay ret
+ba ay danh con cho du qua , lam nhu_the khong co tac_dung giao_duc	ba ay cho danh qua nhu_the tac_dung khong co
+toi khong muon di , va_lai da muon roi	toi di khong muon va_lai muon roi
+	
+cam_on bac	
+chau cam_on bac	
+chau cam_on bac a	
+cuon Chi_Pheo o duoi chong tap_chi	cuon Chi_Pheo o duoi tap_chi
+duoi chong tap_chi co cuon Chi_Pheo	duoi tap_chi co cuon Chi_Pheo
+chong tap_chi o tren cuon Chi_Pheo	tap_chi tren cuon Chi_Pheo
+cai xe mau do ay moi la xe cua toi	xe mau do la xe cua toi
+xe cua toi la cai mau do ay	xe cua toi mau do
+an nhieu qua thi moi sinh_benh chu	an nhieu sinh_benh
+sinh_benh dau phai tai an , ma tai an nhieu qua day chu	sinh_benh dau phai tai an nhieu
+ai chu no thi khong tin duoc	no khong tin
+ga cua ong Tu chet mat hai con	ong Tu ga hai chet
+anh_ay da giet ong Ba	anh_ay ong Ba giet
+anh_ay da lay tien ong Ba	ong Ba anh_ay lay tien
+toi khong tieu tien_cua ong Ba	toi ong Ba tieu tien_cua khong
+no phai giai nhieu bai	no nhieu bai phai giai
+no giai duoc nam bai , thi ba bai dung	no bai nam ba dung
+con hai bai kia thi sai	con hai sai
