@@ -7,4 +7,4 @@ Project include:
 - Dictionary VSL HamNoSys: It is a data set consisting of SiGML codes for expressing Vietnamese sign language, which includes: 3873 states expressed in Avatar 3d JASigning.
 - Dataset1: This is the training dataset Vietnamese convert signed.
 - Dataset2: This is the training dataset Vietnamese convert unsigned.
-
+- Synonyms: Synonyms list in Vietnamese and sign language.
